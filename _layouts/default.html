@@ -13,24 +13,43 @@
             </h3>
         </header>
 
-        <div class="banner" background_image='BADv1.png'> </div>
+        <div class="banner">
+            <a class="banner-link" href="{{site.baseurl}}/"><img src=" {{ site.baseurl }}/public/BAD_Banner.png" /></a>
+        </div>
 
-        <div class="navigation">
-            <a class="navigation-item home" href="{{ paginator.next_page_path | prepend: site.baseurl }}"> HOME </a>
-            <a class="navigation-item about" href="{{ paginator.next_page_path | prepend: site.baseurl }}"> ABOUT </a>
+        <div class=" navigation">
+            <a class="navigation-item about" href="{{ site.baseurl }}/about"> ABOUT US
+            </a>
+            <div class="dropdown">
+                <button class="dropbtn">OUR PROJECTS</button>
+                <div class="dropdown-content">
+                    <a href="{{ site.baseurl }}/lodestar">Lodestar</a>
+                    <a href="{{ site.baseurl }}/beagle">Beagle</a>
+                    <a href="{{ site.baseurl }}/crossfilter">Crossfilter Benchmark</a>
+                    <a href="{{ site.baseurl }}/medimage">Medical Images</a>
+                    <a href="{{ site.baseurl }}/evolution">Notebook Evolution</a>
+                    <a href="{{ site.baseurl }}/vizrecomm">Viz Recommendations</a>
+                    <a href="{{ site.baseurl }}/datamgmt">Data Management Tech</a>
+                    <a href="{{ site.baseurl }}/vizdebug">Viz Debugger</a>
+                    <a href="{{ site.baseurl }}/performance">Performance UI</a>
+                    <a href="{{ site.baseurl }}/clinicalval">Clinical Value Sets</a>
+                </div>
+            </div>
+            <a class="navigation-item about" href="http://www.cs.umd.edu/~leilani">DR. BATTLE
+            </a>
         </div>
 
         <main>
             {{ content }}
         </main>
 
-        <footer class="footer">
-            <small>
-                &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All
-                rights reserved.
-            </small>
-        </footer>
     </div>
+    <footer class="footer">
+        <div style="display:flex;">
+            <a href="https://www.cs.umd.edu/" /><img style="display:block; width:30%;"
+                src="{{site.baseurl}}/public/cs.png"></img>
+        </div>
+    </footer>
 </body>
 
 </html>

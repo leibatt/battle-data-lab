@@ -3,46 +3,95 @@
 // Styles for managing the structural hierarchy of the site.
 
 .container {
-  max-width: 38rem;
+  max-width: 50rem;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
   margin-left: auto;
   margin-right: auto;
 
   .banner {
-    height: 200px;
-    width: 100%;
-    margin: 10px;
-    background-color: #aaa;
-    background-image: 'BADv1.png';
+    display: flex;
+    justify-content: center;
+
+    .banner-link {
+      img {
+        width: 20rem;
+      }
+    }
+
   }
 
   .navigation {
-    overflow: hidden; // clearfix
     margin: 0 1.5rem 1rem;
     color: #ccc;
     text-align: center;
-    float: center;
+    display: flex;
   }
 
   // Pagination items can be `span`s or `a`s
   .navigation-item {
     display: block;
-    padding: 3px;
-    border: solid #eee;
-    border-width: 100px 0;
+    color: #000000;
 
     &:first-child {
       margin-bottom: -1px;
     }
   }
 
-  // Only provide a hover state for linked pagination items
-  a.navigation-item:hover {
-    background-color: #f5f5f5;
+  .dropbtn {
+    color: #000000;
+    background-color: #ffffff;
+    font-family: inherit;
+    font-size: inherit;
+    border: none;
+    text-align: center;
   }
 
-  @media (min-width: 30em) {
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    color: #000000;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    font-family: inherit;
+    font-size: inherit;
+    background-color: #f1f1f1;
+    min-width: 100%;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+  }
+
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    display: block;
+  }
+
+  .dropdown-content a:hover {
+    background-color: #ddd;
+    color: #E21833;
+    text-decoration: none;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .dropdown:hover .dropbtn {
+    color: #E21833;
+    text-decoration: none;
+  }
+
+  // Only provide a hover state for linked pagination items
+  a.navigation-item:hover {
+    color: #E21833;
+    text-decoration: none;
+  }
+
+  @media (min-width: 20em) {
     .navigation {
       margin: 4px 0;
     }
@@ -64,9 +113,18 @@
         border-bottom-right-radius: 4px;
       }
     }
+
+    .dropdown {
+      float: center;
+      width: 50%;
+      border-width: 3px;
+    }
   }
 }
 
 footer {
-  margin-bottom: 2rem;
+  padding-top: 1rem;
+  padding-left: 1.5rem;
+  background-color: #ffd200;
+  color: #000000;
 }

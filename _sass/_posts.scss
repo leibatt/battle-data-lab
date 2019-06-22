@@ -7,7 +7,7 @@
 .post {
   margin-bottom: 4em;
 
-  li + li {
+  li+li {
     margin-top: .25rem;
   }
 }
@@ -18,9 +18,11 @@
 .post-title a {
   color: #303030;
 }
+
 .page-title,
 .post-title {
-  margin-top: 0;
+  margin-top: 2rem;
+  color: #E21833;
 }
 
 // Meta data line below post title
@@ -31,6 +33,33 @@
   color: #9a9a9a;
 }
 
+.page-content {
+  margin-top: 2rem;
+}
+
+.about-items {
+  display: flex;
+  height: auto;
+  overflow: hidden;
+  margin-top: 1rem;
+}
+
+.about-item-img {
+  width: 40%;
+  height: 400px;
+  margin-right: 1rem;
+  display: block;
+}
+
+.about-item-des {
+  width: 60%;
+  display: block;
+}
+
+.contact-item {
+  color: #E21833;
+  float: right;
+}
 
 // Related posts
 .related {
