@@ -27,12 +27,27 @@ title: About
 
 <div class="about-items">
     <img class="about-item-img" 
-        src="{{site.baseurl}}/public/apple-touch-icon-precomposed.png"
-        alt="Markdown Monster icon"/>
+        src="https://www.ohdsi.org/wp-content/uploads/2017/02/sigfried-head-400x400.jpg"
+        alt="Sigfried's head"/>
     <div class="about-item-des">
         <h2>Sigfried Gold</h2>
-        Integer neque urna, scelerisque sit amet porta ut, eleifend id justo. Morbi ut tempus massa. Phasellus faucibus lacus interdum ante euismod congue. Proin ornare sapien vitae mauris luctus hendrerit. Fusce consequat dolor elit, imperdiet ultricies eros vestibulum a. Aenean orci dolor, consectetur at viverra eget, fringilla rhoncus risus. Sed suscipit quam erat, eu sagittis turpis tempor id. Nulla facilisi. Praesent vel sapien lacus. Donec eleifend neque massa, euismod aliquam lectus maximus ac.
-        <br/><p class="contact-item">Email: patil(@)cs.umd.edu</p>
+
+        Sigfried Gold is a clinical research informaticist specializing in
+        developing visual analytics tools to improve the productivity and
+        quality of in silico studies of healthcare data, particularly around
+        the use of standardized medical terminologies and common data models in
+        distributed research networks. Sigfried consults as an informaticist,
+        visualization designer, and has 
+        <a href="http://sigfried.org/resume.pdf">worked as a software developer for 32 years</a>.
+        He is an active contributor to open science and open source projects including
+        <a href="https://www.ohdsi.org/who-we-are/collaborators/sigfried-gold/">OHDSI</a>,
+        <a href="https://medicine.umich.edu/dept/lhs/service-outreach/mobilizing-computable-biomedical-knowledge">MCBK</a>,
+        and <a href="http://sigfried.github.io/supergroup/">supergroup.js</a>. 
+        Sigfried is currently a PhD student with the UMD College of Information Studies and
+        <a href="https://hcil.umd.edu/">HCIL</a>, advised by 
+        <a href="https://sites.umiacs.umd.edu/elm/">Niklas Elmqvist</a> and 
+        <a href="http://www.cs.umd.edu/~leilani">Leilani Battle</a>.
+        <br/><p class="contact-item">Email: sigfied(@)sigfried.org</p>
     </div>
 </div>
 
