@@ -9,6 +9,7 @@
 * Add your information to *about.md*. 
 Here's the basic html format you should follow: 
 
+```html
 <div class="about-items">
     <img class="about-item-img" 
         src="{{site.baseurl}}/public/MY_IMAGE.png"
@@ -19,10 +20,12 @@ Here's the basic html format you should follow:
         <br/><p class="contact-item">Email: me(@)cs.umd.edu</p>
     </div>
 </div>
+```
 
 * Add your project information (if it's not already there) to *projects.md*.
 Here's the basic html format you should follow: 
 
+```html
 <div class="project-item">
 	<div class="project-item-des">
 		<a href="{{site.baseurl}}/projects/MY_PROJECT_DEEP_DESCRIPTION"><h2>MY_PROJECT_TITLE</h2></a>
@@ -31,6 +34,7 @@ Here's the basic html format you should follow:
 	<img class="project-item-img" src="{{site.baseurl}}/public/MY_PROJECT_IMG.png" alt="MY IMG ALT"/>
 	<div class="caption"> MY PROJECT IMAGE CAPTION </div>
 </div>
+```
 
 * You don't have to test these pages locally if you're making small changes. 
 GitHub will build your changes and render the changes to our domain. 
