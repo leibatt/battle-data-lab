@@ -42,7 +42,7 @@ GitHub will build your changes and render the changes to our domain.
 * If you want to test your changes locally, you'll need a Windows machine, and you'll need to download Jekyll. 
 Use 'jekyll serve' to view the pages redered to "localhost:4000".
 
-# System architecture...
+# System architecture
 * _ sass: This folder contains all the styles being used by our html/md pages.  
 * _layouts: This folder contains all the default layouts being leveraged by our html/md pages.
 When a page is specified as being "default" or "page", the html framework defined in this folder is applied
