@@ -11,7 +11,7 @@ title: About Us
     <h2>Dr. Leilani Battle</h2>
     Leilani Battle is an Assistant Professor at the University of Maryland, College Park, with a joint appointment in the <a href="http://www.umiacs.umd.edu/">University of Maryland Institute for Advanced Computer Studies (UMIACS)</a>. She is also affiliated with the UMD <a href="http://hcil.umd.edu/">Human-Computer Interaction Laboratory (HCIL)</a>. Her research interests focus on developing interactive data-intensive systems that can aid analysts in performing complex data exploration and analysis. Her current research is anchored in the field of databases, but utilizes research methodology and techniques from HCI and visualization to integrate data processing (databases) with interactive interfaces (HCI, visualization).
     She is an NSF Graduate Research Fellowship Recipient (2012), and her research is currently supported by an <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850115">NSF CISE CRII Award (2019)</a>. In 2017, she completed a postdoc in the UW <a href="http://idl.cs.washington.edu/">Interactive Data Lab</a>. She holds an MS (2013) and PhD (2017) in Computer Science from MIT, where she was a member of the <a href="http://db.csail.mit.edu/">MIT Database Group</a>, and a BS in Computer Engineering from UW (2011), where she was a member of the <a href="http://db.cs.washington.edu/">UW database group</a>.
-    <br/><p class="contact-item">Email: patil(@)cs.umd.edu</p>
+    <br/><p class="contact-item">Email: leilani(@)cs.umd.edu</p>
     </div>
 </div>
 
