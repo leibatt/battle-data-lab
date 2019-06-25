@@ -61,6 +61,30 @@
   float: right;
 }
 
+.project-items {
+  height: auto;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.project-item {
+  .project-item-des {
+    width: 100%;
+  }
+  
+  .project-item-img {
+    width: 100%;
+  }
+
+  .caption {
+    display: block;
+    color: #E21833;
+    font-size: .5rem;
+  }
+}
+
+
+
 // Related posts
 .related {
   padding-top: 2rem;
