@@ -4,8 +4,8 @@ title: About Us
 ---
 
 <div class="about-items">
-    <img class="about-item-img" 
-        src="{{site.baseurl}}/public/apple-touch-icon-precomposed.png"
+    <img class="about-item-img"  width="210"
+        src="http://www.cs.umd.edu/~leilani/static/img/leilani_pp2.jpg"
         alt="Markdown Monster icon"/>
     <div class="about-item-des">
     <h2>Dr. Leilani Battle</h2>
