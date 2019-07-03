@@ -4,11 +4,13 @@ title: About Us
 ---
 
 <div class="about-items">
-    <img class="about-item-img"  width="210"
-        src="http://www.cs.umd.edu/~leilani/static/img/leilani_pp2.jpg"
-        alt="Markdown Monster icon"/>
+    <div class="about-item-img">
+        <img
+            src="http://www.cs.umd.edu/~leilani/static/img/leilani_pp2.jpg"
+            alt="Dr. Battle"/>
+    </div>
     <div class="about-item-des">
-    <h2>Dr. Leilani Battle</h2>
+    <h2 class="about-name">Dr. Leilani Battle</h2>
     Leilani Battle is an Assistant Professor at the University of Maryland, College Park, with a joint appointment in the <a href="http://www.umiacs.umd.edu/">University of Maryland Institute for Advanced Computer Studies (UMIACS)</a>. She is also affiliated with the UMD <a href="http://hcil.umd.edu/">Human-Computer Interaction Laboratory (HCIL)</a>. Her research interests focus on developing interactive data-intensive systems that can aid analysts in performing complex data exploration and analysis. Her current research is anchored in the field of databases, but utilizes research methodology and techniques from HCI and visualization to integrate data processing (databases) with interactive interfaces (HCI, visualization).
     She is an NSF Graduate Research Fellowship Recipient (2012), and her research is currently supported by an <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1850115">NSF CISE CRII Award (2019)</a> and <a href="https://www.orau.org/university-partnerships/member-grant-programs/powe/index.html">ORAU Ralph E. Powe Junior Faculty Enhancement Award (2019-2020)</a>. In 2017, she completed a postdoc in the UW <a href="http://idl.cs.washington.edu/">Interactive Data Lab</a>. She holds an MS (2013) and PhD (2017) in Computer Science from MIT, where she was a member of the <a href="http://db.csail.mit.edu/">MIT Database Group</a>, and a BS in Computer Engineering from UW (2011), where she was a member of the <a href="http://db.cs.washington.edu/">UW database group</a>.
     <br/><p class="contact-item">Email: leilani(@)cs.umd.edu</p>
@@ -17,33 +19,39 @@ title: About Us
 
 
 <div class="about-items">
-    <img class="about-item-img" 
-        src="{{site.baseurl}}/public/apple-touch-icon-precomposed.png"
-        alt="Markdown Monster icon"/>
+    <div class="about-item-img">
+        <img
+            src="{{site.baseurl}}/public/apple-touch-icon-precomposed.png"
+            alt="Markdown Monster icon"/>
+    </div>
     <div class="about-item-des">
-        <h2>Amaya Patil</h2>
+        <h2 class="about-name">Amaya Patil</h2>
         Duis faucibus sem vel ante malesuada posuere. Donec nisl odio, consectetur eu malesuada id, lacinia volutpat mauris. Duis vitae sapien elit. Suspendisse nec erat tempus, posuere urna at, pretium diam. Cras vitae sem at ipsum tempus varius. Cras est turpis, viverra vel mauris in, fermentum hendrerit est. Nam orci nibh, bibendum id augue vitae, ullamcorper euismod lectus. Maecenas varius dolor eu aliquet euismod. Proin id rhoncus nulla. Donec sed condimentum tellus. Nullam vehicula magna nec luctus rutrum.
         <br/><p class="contact-item">Email: patil(@)cs.umd.edu</p>
     </div>
 </div>
 
 <div class="about-items">
-    <img class="about-item-img" 
+    <div class="about-item-img">
+    <img
         src="{{site.baseurl}}/public/apple-touch-icon-precomposed.png"
         alt="Markdown Monster icon"/>
+    </div>
     <div class="about-item-des">
-        <h2>Rachel Zehrung</h2>
+        <h2 class="about-name">Rachel Zehrung</h2>
         Proin sit amet erat lacinia, ullamcorper quam eu, consequat nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec laoreet urna vel justo porttitor placerat. Proin porta nisi sed erat venenatis hendrerit. Sed sit amet ipsum id purus tristique aliquet a id ex. Praesent consequat euismod lacus, sit amet sollicitudin neque pretium nec. Quisque laoreet felis in justo porta, vitae sodales arcu rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;.
         <br/><p class="contact-item">Email: patil(@)cs.umd.edu</p>
     </div>
 </div>
 
 <div class="about-items">
-    <img class="about-item-img" 
-        src="https://www.ohdsi.org/wp-content/uploads/2017/02/sigfried-head-400x400.jpg"
-        alt="Sigfried's head"/>
+    <div class="about-item-img">
+        <img
+            src="https://www.ohdsi.org/wp-content/uploads/2017/02/sigfried-head-400x400.jpg"
+            alt="Mr. Sigfried Gold"/>
+    </div>
     <div class="about-item-des">
-        <h2>Sigfried Gold</h2>
+        <h2 class="about-name">Sigfried Gold</h2>
 
         Sigfried Gold is a clinical research informaticist specializing in
         developing visual analytics tools to improve the productivity and
@@ -65,22 +73,26 @@ title: About Us
 </div>
 
 <div class="about-items">
-    <img class="about-item-img" 
+    <div class="about-item-img">
+    <img
         src="{{site.baseurl}}/public/apple-touch-icon-precomposed.png"
         alt="Markdown Monster icon"/>
+    </div>
     <div class="about-item-des">
-        <h2>Deepthi Raghunandan</h2>
+        <h2 class="about-name">Deepthi Raghunandan</h2>
         Curabitur ac lacus massa. In vel sem non mi pellentesque ornare eu sit amet felis. Maecenas nec neque non massa volutpat venenatis quis varius sapien. Cras porta aliquam nulla convallis finibus. Praesent facilisis sapien eu rhoncus suscipit. Proin fermentum ex erat, eget venenatis arcu efficitur a. Donec vulputate eget ante eu tincidunt. Praesent lacinia facilisis placerat. Mauris scelerisque sem id neque gravida iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas sollicitudin odio nec dui accumsan, quis dignissim nunc semper. Vivamus gravida urna convallis dolor finibus hendrerit. Aliquam justo justo, facilisis euismod tempus ac, euismod non lectus. In tincidunt laoreet tellus id dignissim. Vestibulum sit amet leo imperdiet, cursus erat eget, semper sem. Duis laoreet ultricies dolor, in elementum ex viverra in.
         <br/><p class="contact-item">Email: patil(@)cs.umd.edu</p>
     </div>
 </div>
 
 <div class="about-items">
-    <img class="about-item-img" 
+    <div class="about-item-img">
+    <img
         src="{{site.baseurl}}/public/apple-touch-icon-precomposed.png"
         alt="Markdown Monster icon"/>
+    </div>
     <div class="about-item-des">
-        <h2>Sneha Gathani</h2>
+        <h2 class="about-name">Sneha Gathani</h2>
         Curabitur ac lacus massa. In vel sem non mi pellentesque ornare eu sit amet felis. Maecenas nec neque non massa volutpat venenatis quis varius sapien. Cras porta aliquam nulla convallis finibus. Praesent facilisis sapien eu rhoncus suscipit. Proin fermentum ex erat, eget venenatis arcu efficitur a. Donec vulputate eget ante eu tincidunt. Praesent lacinia facilisis placerat. Mauris scelerisque sem id neque gravida iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas sollicitudin odio nec dui accumsan, quis dignissim nunc semper. Vivamus gravida urna convallis dolor finibus hendrerit. Aliquam justo justo, facilisis euismod tempus ac, euismod non lectus. In tincidunt laoreet tellus id dignissim. Vestibulum sit amet leo imperdiet, cursus erat eget, semper sem. Duis laoreet ultricies dolor, in elementum ex viverra in.
         <br/><p class="contact-item">Email: patil(@)cs.umd.edu</p>
     </div>
