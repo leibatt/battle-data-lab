@@ -75,13 +75,13 @@ title: About Us
 <div class="about-items">
     <div class="about-item-img">
     <img
-        src="{{site.baseurl}}/public/apple-touch-icon-precomposed.png"
+        src="{{site.baseurl}}/public/deepthi.png"
         alt="Markdown Monster icon"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Deepthi Raghunandan</h2>
-        Curabitur ac lacus massa. In vel sem non mi pellentesque ornare eu sit amet felis. Maecenas nec neque non massa volutpat venenatis quis varius sapien. Cras porta aliquam nulla convallis finibus. Praesent facilisis sapien eu rhoncus suscipit. Proin fermentum ex erat, eget venenatis arcu efficitur a. Donec vulputate eget ante eu tincidunt. Praesent lacinia facilisis placerat. Mauris scelerisque sem id neque gravida iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas sollicitudin odio nec dui accumsan, quis dignissim nunc semper. Vivamus gravida urna convallis dolor finibus hendrerit. Aliquam justo justo, facilisis euismod tempus ac, euismod non lectus. In tincidunt laoreet tellus id dignissim. Vestibulum sit amet leo imperdiet, cursus erat eget, semper sem. Duis laoreet ultricies dolor, in elementum ex viverra in.
-        <br/><p class="contact-item">Email: patil(@)cs.umd.edu</p>
+        Deepthi is a PhD student in the Department of Computer Science. She graduated from Maryland with an undergraduate degree in both Computer Science and Economics. She worked full-time for Microsoft in the Windows Phone and Skype for Business divisions. She returned to UMD to do her Master’s in Computer Science and got excited about Data Viz research! Deepthi is currently working on improving code recommendations for LodeStar. She’s also analyzing Jupyter Notebooks to characterize analyst behavior. When she’s not doing research, you’ll probably find her in a kitchen- cooking up a storm!
+        <br/><p class="contact-item">Email: draghun1(@)cs.umd.edu</p>
     </div>
 </div>
 
