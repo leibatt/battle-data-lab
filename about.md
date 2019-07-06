@@ -75,7 +75,7 @@ title: About Us
 <div class="about-items">
     <div class="about-item-img">
     <img
-        src="{{site.baseurl}}/public/deepthi.png"
+        src="{{site.baseurl}}/public/deepthi.jpg"
         alt="Markdown Monster icon"/>
     </div>
     <div class="about-item-des">
