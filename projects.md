@@ -13,3 +13,12 @@ title: Our Projects
         </div>
     </div>
 </div>
+
+<div class="project-items">
+    <div class="project-item">
+        <div class="project-item-des">
+            <h2 class="project-name">Notebook Evolution</h2>
+Computational notebooks are a popular medium for data analysts to record the methods and observations of the data analysis process. The increasing number of notebooks being added to GitHub not only show the popularity of this platform but also provide for a great resource to observe the trends in Data Analysis. Leveraging the snapshot nature of GitHub repositories can help us understand the analysis process across time. Given what we know about the data analysis process, how well do the tools of today perform in aiding analysts? We scrape all of the public notebooks from GitHub and observe: the trends in API usage and data analysts behavior with computation notebooks across time. We use this data to study whether popular data analysis tools support these behaviors. We use this as a means to evaluate the efficacy of those tools.
+        </div>
+    </div>
+</div>
