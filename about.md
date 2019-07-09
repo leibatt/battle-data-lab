@@ -26,10 +26,12 @@ title: About
 </div>
 
 <div class="about-items">
-    <img class="about-item-img" 
+    <div class="about-item-img">
+      <img class="about-item-img-sigfried-head-was-too-big" 
         src="https://www.ohdsi.org/wp-content/uploads/2017/02/sigfried-head-400x400.jpg"
         alt="Sigfried's head"/>
-    <div class="about-item-des">
+      </div>
+      <div class="about-item-des">
         <h2>Sigfried Gold</h2>
 
         Sigfried Gold is a clinical research informaticist specializing in
