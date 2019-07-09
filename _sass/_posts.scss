@@ -38,17 +38,25 @@
 }
 
 .about-items {
-  display: flex;
-  height: auto;
-  overflow: hidden;
   margin-top: 1rem;
+  width: 100%;
+  display: flex;
 }
 
 .about-item-img {
-  width: 40%;
-  height: 400px;
-  margin-right: 1rem;
   display: block;
+  margin-top: 5rem;
+  width: 100%;
+
+  img {
+    position: relative;
+    margin: auto;
+    width: 35rem;
+    height: 35rem;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 }
 .about-item-img-sigfried-head-was-too-big {
   height: 200px;
@@ -57,14 +65,46 @@
 }
 
 .about-item-des {
-  width: 60%;
   display: block;
+  width: 100%;
+
+  .about-name {
+    font-size: 24px;
+  }
 }
 
 .contact-item {
   color: #E21833;
   float: right;
 }
+
+.project-items {
+  height: auto;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.project-item {
+  .project-name {
+    font-size: 30px;
+  }
+
+  .project-item-des {
+    width: 100%;
+  }
+
+  .project-item-img {
+    width: 100%;
+  }
+
+  .caption {
+    display: block;
+    color: #E21833;
+    font-size: .5rem;
+  }
+}
+
+
 
 // Related posts
 .related {
@@ -97,5 +137,57 @@
         color: inherit;
       }
     }
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .about-items {
+    display: block;
+    justify-content: center;
+  }
+
+}
+
+@media screen and (max-width: 620px) {
+  .about-items {
+    display: block;
+    justify-content: center;
+  }
+
+  .page-title {
+    font-size: 20px;
+  }
+
+  .about-item-des .about-name {
+    font-size: 15px;
+    font-weight: bold;
+  }
+
+  .project-item .project-name {
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .about-item-img {
+    display: none;
+  }
+
+  .about-items {
+    display: block;
+    justify-content: center;
+  }
+
+  .page-title {
+    font-size: 20px;
+  }
+
+  .about-item-des .about-name {
+    font-size: 15px;
+    font-weight: bold;
+  }
+
+  .project-item .project-name {
+    font-size: 18px;
   }
 }
