@@ -19,9 +19,11 @@ title: About Us
 
 
 <div class="about-items">
-    <img class="about-item-img" 
-        src="https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/me_6.jpg"
-        alt="AmeyaBP"/>
+    <div class="about-item-img">
+        <img
+            src="https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/me_6.jpg"
+            alt="AmeyaBP"/>
+    </div>
     <div class="about-item-des">
         <h2 class="about-name">Amaya Patil</h2>
         Ameya is a Master’s student in the Department of Computer Science. Having completed his undergraduate studies in Computer Science from BITS-Pilani Goa Campus, India, he also worked for 2 years as a software developer at NVIDIA Graphics in the GeForce Experience gaming products team. Currently at UMD, he is involved in research in the domain of user behaviour modelling. Particularly, his work revolves around using deep learning techniques to find patterns in user behaviour while performing visual data exploration and developing models to predict the behaviour. His interests also include computer vision and graphics which has translated into picking up digital photography as his hobby.
@@ -97,11 +99,13 @@ title: About Us
 </div>
 
 <div class="about-items">
-    <img class="about-item-img" 
+    <div class="about-item-img">
+    <img
         src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/65846586_669703810144784_1777843300623974400_o.jpg?_nc_cat=110&_nc_oc=AQnXpnVmD0UXkS6uaICDcjGdg-Z8PLCRcDsM1tduGIMDZRvDVpZeavWLtzJAGQ8z3Ig&_nc_ht=scontent-iad3-1.xx&oh=346a7f37d945c2b1a999a3e42aa85d9d&oe=5DBB21A7"
         alt="Kelli's headshot"/>
+    </div>
     <div class="about-item-des">
-        <h2>Kelli Webber</h2>
+        <h2 class="about-name">Kelli Webber</h2>
         Kelli Webber is a senior at the University of Maryland College Park. She is pursuing a major in computer science and a minor in sustainability. She is helping Dr. Battle with the Data Driven Documents (D3.js) research project. This project is about analyzing D3.js related comments and questions posted to Stack Overflow, Reddit, and GitHub to figure out what people struggle with when using D3. Kelli Webber has completed the <a href="http://dcc.umd.edu/">Design Cultures and Creativity </a> and the <a href="https://www.rhsmith.umd.edu/programs/undergraduate-programs/academics/fellows-special-programs/quest">QUEST</a> honors programs at University of Maryland. She plans to combine her interests in sustainability, design, business, and computer science.
         <br/><p class="contact-item">Email:kwebber1@terpmail.umd.edu</p>
     </div>
