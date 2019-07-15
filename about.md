@@ -19,15 +19,13 @@ title: About Us
 
 
 <div class="about-items">
-    <div class="about-item-img">
-        <img
-            src="{{site.baseurl}}/public/apple-touch-icon-precomposed.png"
-            alt="Markdown Monster icon"/>
-    </div>
+    <img class="about-item-img" 
+        src="https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/me_6.jpg"
+        alt="AmeyaBP"/>
     <div class="about-item-des">
         <h2 class="about-name">Amaya Patil</h2>
-        Duis faucibus sem vel ante malesuada posuere. Donec nisl odio, consectetur eu malesuada id, lacinia volutpat mauris. Duis vitae sapien elit. Suspendisse nec erat tempus, posuere urna at, pretium diam. Cras vitae sem at ipsum tempus varius. Cras est turpis, viverra vel mauris in, fermentum hendrerit est. Nam orci nibh, bibendum id augue vitae, ullamcorper euismod lectus. Maecenas varius dolor eu aliquet euismod. Proin id rhoncus nulla. Donec sed condimentum tellus. Nullam vehicula magna nec luctus rutrum.
-        <br/><p class="contact-item">Email: patil(@)cs.umd.edu</p>
+        Ameya is a Master’s student in the Department of Computer Science. Having completed his undergraduate studies in Computer Science from BITS-Pilani Goa Campus, India, he also worked for 2 years as a software developer at NVIDIA Graphics in the GeForce Experience gaming products team. Currently at UMD, he is involved in research in the domain of user behaviour modelling. Particularly, his work revolves around using deep learning techniques to find patterns in user behaviour while performing visual data exploration and developing models to predict the behaviour. His interests also include computer vision and graphics which has translated into picking up digital photography as his hobby.
+        <br/><p class="contact-item">Email: ameyap(@)cs.umd.edu</p>
     </div>
 </div>
 
