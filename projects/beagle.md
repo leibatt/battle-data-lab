@@ -4,4 +4,5 @@ title: Beagle
 ---
 
 ## Abstract
-Curabitur ac lacus massa. In vel sem non mi pellentesque ornare eu sit amet felis. Maecenas nec neque non massa volutpat venenatis quis varius sapien. Cras porta aliquam nulla convallis finibus. Praesent facilisis sapien eu rhoncus suscipit. Proin fermentum ex erat, eget venenatis arcu efficitur a. Donec vulputate eget ante eu tincidunt. Praesent lacinia facilisis placerat. Mauris scelerisque sem id neque gravida iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas sollicitudin odio nec dui accumsan, quis dignissim nunc semper. Vivamus gravida urna convallis dolor finibus hendrerit. Aliquam justo justo, facilisis euismod tempus ac, euismod non lectus. In tincidunt laoreet tellus id dignissim. Vestibulum sit amet leo imperdiet, cursus erat eget, semper sem. Duis laoreet ultricies dolor, in elementum ex viverra in.
+Data visualizations are used to help people understand and interpret data in efficient ways. Data Driven Documents (D3) is used to create data visualizations. The issue is many people have difficulty coding in D3. These people turn to Stack Overflow, Reddit, and GitHub for online support. Our research mainly contains two parts: data scraping and data analysis. We are using beautifulsoup and selenium to scrape data, and then we conduct qualitative analysis. 
+
