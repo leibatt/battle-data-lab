@@ -1,0 +1,32 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               BAD
+tagline:             Battle Data Lab
+url:                 http://battle-data-lab.cs.umd.edu
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Deepthi Raghunandan
+  url:               draghun1.cs.umd.edu
+  email:             draghun1@cs.umd.edu
+
+# Custom vars
+version:             2.0.0
+github:              https://github.com/leiatt
+repo:              https://github.com/leiatt/battle-data-lab
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
