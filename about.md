@@ -29,6 +29,17 @@ title: About Us
 
 <div class="about-items">
     <img class="about-item-img" 
+        src="https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/me_6.jpg"
+        alt="KartikBP"/>
+    <div class="about-item-des">
+        <h2>Kartik Krishnan</h2>
+        Kartik is an Undergraduate student in the Department of Computer Science at the University of Maryland. Kartik interned for Exelon in the summer after his freshman year. He also currently works as a research assistant under Dr. Mayank Goel at Carnegie Mellon University, working on developing a robust sound and motion based activity recognition system. As a rising junior, Kartik started his research with Dr. Battle in his Sophomore year and plans to continue and pursue a Master's degree. Currently his interests include Human Computer Interaction (HCI) and Ubiquitous Computing. 
+        <br/><p class="contact-item">Email: kkrishn1(@)cs.umd.edu</p>
+    </div>
+</div>
+
+<div class="about-items">
+    <img class="about-item-img" 
         src="{{site.baseurl}}/public/apple-touch-icon-precomposed.png"
         alt="Markdown Monster icon"/>
     <div class="about-item-des">
