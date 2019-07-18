@@ -4,8 +4,8 @@
 
 * {
   -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html,
@@ -18,6 +18,7 @@ html {
   font-family: $root-font-family;
   font-size: $root-font-size;
   line-height: $root-line-height;
+  min-height: 100%;
 
   @media (min-width: $large-breakpoint) {
     font-size: $large-font-size;
@@ -28,7 +29,8 @@ body {
   color: $body-color;
   background-color: $body-bg;
   -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  margin: 0 0 150px;
 }
 
 // No `:visited` state is required by default (browsers will use `a`)
@@ -52,6 +54,10 @@ img {
   max-width: 100%;
   margin: 0 0 1rem;
   border-radius: 5px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 table {
