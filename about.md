@@ -21,13 +21,13 @@ title: About Us
 <div class="about-items">
     <div class="about-item-img">
         <img
-            src="{{site.baseurl}}/public/apple-touch-icon-precomposed.png"
-            alt="Markdown Monster icon"/>
+            src="https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/me_6.jpg"
+            alt="AmeyaBP"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Amaya Patil</h2>
-        Duis faucibus sem vel ante malesuada posuere. Donec nisl odio, consectetur eu malesuada id, lacinia volutpat mauris. Duis vitae sapien elit. Suspendisse nec erat tempus, posuere urna at, pretium diam. Cras vitae sem at ipsum tempus varius. Cras est turpis, viverra vel mauris in, fermentum hendrerit est. Nam orci nibh, bibendum id augue vitae, ullamcorper euismod lectus. Maecenas varius dolor eu aliquet euismod. Proin id rhoncus nulla. Donec sed condimentum tellus. Nullam vehicula magna nec luctus rutrum.
-        <br/><p class="contact-item">Email: patil(@)cs.umd.edu</p>
+        Ameya is a Master’s student in the Department of Computer Science. Having completed his undergraduate studies in Computer Science from BITS-Pilani Goa Campus, India, he also worked for 2 years as a software developer at NVIDIA Graphics in the GeForce Experience gaming products team. Currently at UMD, he is involved in research in the domain of user behaviour modelling. Particularly, his work revolves around using deep learning techniques to find patterns in user behaviour while performing visual data exploration and developing models to predict the behaviour. His interests also include computer vision and graphics which has translated into picking up digital photography as his hobby.
+        <br/><p class="contact-item">Email: ameyap(@)cs.umd.edu</p>
     </div>
 </div>
 
@@ -75,13 +75,13 @@ title: About Us
 <div class="about-items">
     <div class="about-item-img">
     <img
-        src="{{site.baseurl}}/public/apple-touch-icon-precomposed.png"
+        src="{{site.baseurl}}/public/deepthi.jpg"
         alt="Markdown Monster icon"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Deepthi Raghunandan</h2>
-        Curabitur ac lacus massa. In vel sem non mi pellentesque ornare eu sit amet felis. Maecenas nec neque non massa volutpat venenatis quis varius sapien. Cras porta aliquam nulla convallis finibus. Praesent facilisis sapien eu rhoncus suscipit. Proin fermentum ex erat, eget venenatis arcu efficitur a. Donec vulputate eget ante eu tincidunt. Praesent lacinia facilisis placerat. Mauris scelerisque sem id neque gravida iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas sollicitudin odio nec dui accumsan, quis dignissim nunc semper. Vivamus gravida urna convallis dolor finibus hendrerit. Aliquam justo justo, facilisis euismod tempus ac, euismod non lectus. In tincidunt laoreet tellus id dignissim. Vestibulum sit amet leo imperdiet, cursus erat eget, semper sem. Duis laoreet ultricies dolor, in elementum ex viverra in.
-        <br/><p class="contact-item">Email: patil(@)cs.umd.edu</p>
+        Deepthi is a PhD student in the Department of Computer Science. She graduated from Maryland with an undergraduate degree in both Computer Science and Economics. She worked full-time for Microsoft in the Windows Phone and Skype for Business divisions. She returned to UMD to do her Master’s in Computer Science and got excited about Data Viz research! Deepthi is currently working on improving code recommendations for LodeStar. She’s also analyzing Jupyter Notebooks to characterize analyst behavior. When she’s not doing research, you’ll probably find her in a kitchen- cooking up a storm!
+        <br/><p class="contact-item">Email: draghun1(@)cs.umd.edu</p>
     </div>
 </div>
 
@@ -95,5 +95,18 @@ title: About Us
         <h2 class="about-name">Sneha Gathani</h2>
         Curabitur ac lacus massa. In vel sem non mi pellentesque ornare eu sit amet felis. Maecenas nec neque non massa volutpat venenatis quis varius sapien. Cras porta aliquam nulla convallis finibus. Praesent facilisis sapien eu rhoncus suscipit. Proin fermentum ex erat, eget venenatis arcu efficitur a. Donec vulputate eget ante eu tincidunt. Praesent lacinia facilisis placerat. Mauris scelerisque sem id neque gravida iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas sollicitudin odio nec dui accumsan, quis dignissim nunc semper. Vivamus gravida urna convallis dolor finibus hendrerit. Aliquam justo justo, facilisis euismod tempus ac, euismod non lectus. In tincidunt laoreet tellus id dignissim. Vestibulum sit amet leo imperdiet, cursus erat eget, semper sem. Duis laoreet ultricies dolor, in elementum ex viverra in.
         <br/><p class="contact-item">Email: patil(@)cs.umd.edu</p>
+    </div>
+</div>
+
+<div class="about-items">
+    <div class="about-item-img">
+    <img
+        src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/65846586_669703810144784_1777843300623974400_o.jpg?_nc_cat=110&_nc_oc=AQnXpnVmD0UXkS6uaICDcjGdg-Z8PLCRcDsM1tduGIMDZRvDVpZeavWLtzJAGQ8z3Ig&_nc_ht=scontent-iad3-1.xx&oh=346a7f37d945c2b1a999a3e42aa85d9d&oe=5DBB21A7"
+        alt="Kelli's headshot"/>
+    </div>
+    <div class="about-item-des">
+        <h2 class="about-name">Kelli Webber</h2>
+        Kelli Webber is a senior at the University of Maryland College Park. She is pursuing a major in computer science and a minor in sustainability. She is helping Dr. Battle with the Data Driven Documents (D3.js) research project. This project is about analyzing D3.js related comments and questions posted to Stack Overflow, Reddit, and GitHub to figure out what people struggle with when using D3. Kelli Webber has completed the <a href="http://dcc.umd.edu/">Design Cultures and Creativity </a> and the <a href="https://www.rhsmith.umd.edu/programs/undergraduate-programs/academics/fellows-special-programs/quest">QUEST</a> honors programs at University of Maryland. She plans to combine her interests in sustainability, design, business, and computer science.
+        <br/><p class="contact-item">Email:kwebber1@terpmail.umd.edu</p>
     </div>
 </div>
