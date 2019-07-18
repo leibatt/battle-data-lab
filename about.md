@@ -32,25 +32,15 @@ title: About Us
 </div>
 
 <div class="about-items">
-    <img class="about-item-img" 
-        src="https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/me_6.jpg"
-        alt="KartikBP"/>
+    <div class="about-item-img">
+        <img
+            src="https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/me_6.jpg"
+            alt="Karthik BP"/>
+    </div>
     <div class="about-item-des">
-        <h2>Kartik Krishnan</h2>
+        <h2 class="about-name">Kartik Krishnan</h2>
         Kartik is an Undergraduate student in the Department of Computer Science at the University of Maryland. Kartik interned for Exelon in the summer after his freshman year. He also currently works as a research assistant under Dr. Mayank Goel at Carnegie Mellon University, working on developing a robust sound and motion based activity recognition system. As a rising junior, Kartik started his research with Dr. Battle in his Sophomore year and plans to continue and pursue a Master's degree. Currently his interests include Human Computer Interaction (HCI) and Ubiquitous Computing. 
         <br/><p class="contact-item">Email: kkrishn1(@)cs.umd.edu</p>
-    </div>
-</div>
-
-<div class="about-items">
-    <img class="about-item-img" 
-        src="{{site.baseurl}}/public/apple-touch-icon-precomposed.png"
-        alt="Markdown Monster icon"/>
-    </div>
-    <div class="about-item-des">
-        <h2 class="about-name">Rachel Zehrung</h2>
-        Proin sit amet erat lacinia, ullamcorper quam eu, consequat nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec laoreet urna vel justo porttitor placerat. Proin porta nisi sed erat venenatis hendrerit. Sed sit amet ipsum id purus tristique aliquet a id ex. Praesent consequat euismod lacus, sit amet sollicitudin neque pretium nec. Quisque laoreet felis in justo porta, vitae sodales arcu rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;.
-        <br/><p class="contact-item">Email: patil(@)cs.umd.edu</p>
     </div>
 </div>
 
