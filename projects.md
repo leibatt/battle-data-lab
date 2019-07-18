@@ -40,3 +40,12 @@ title: Our Projects
         </div>
     </div>
 </div>
+
+<div class="project-items">
+    <div class="project-item">
+        <div class="project-item-des">
+            <h2 class="project-name">Crossfilter Benchmark</h2>
+	    The crossfilter benchmark project aims to create a benchmark to allow database engine builders to test their systems against some typical interactions. More specifically, we want to use real world user history log gathered from the crossfilter study to evaluate the performaces of databases with IDEBench. IDEBench is a benchmark assessing the database workloads created from interactive data exploration. In this project, we are testing several databases, including Monetdb, Postgresql, Sqlite, Hyper, Duckdb and Verdictdb.
+        </div>
+    </div>
+</div>

@@ -110,3 +110,17 @@ title: About Us
         <br/><p class="contact-item">Email:kwebber1@terpmail.umd.edu</p>
     </div>
 </div>
+
+<div class="about-items">
+    <div class="about-item-img">
+    <img
+        src="{{site.baseurl}}/public/yukun.jpg"
+        alt="Markdown Monster icon"/>
+    </div>
+    <div class="about-item-des">
+        <h2 class="about-name">Yukun Zheng</h2>
+	Yukun is a undergraduate student in the Department of Computer Science at University of Maryland. She is studying computer science and applied math. She worked as a research intern at National Supercomputer center in Guangzhou, China, in summer 2018. She is working on the crossfilter benchmark project, which is about evaluating the performances of several databases, a benchmark assessing the database workloads created from interactive data exploration using logs gathered from the crossfilter study. In her free time, she likes to play videos games(Tom Clancy's Rainbow Six Siege, Monster Hunter: World, etc).
+        <br/><p class="contact-item">Email: yzheng11@umd.edu</p>
+    </div>
+</div>
+
