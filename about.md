@@ -95,8 +95,8 @@ title: About Us
         <h2 class="about-name">Sneha Gathani</h2>
         Sneha Gathani is a Master’s student in the Computer Science department. She did her undergrad from India and is researching over the past one year. She is currently working on 2 research projects:<br>
 <ol>
-    <li>1. She is developing a tool; “LogVis” that visualizes logs of Android mobile applications. This is a collaborative project with Maryland Cybersecurity Centre (MC2) to build on existing work in static code analysis and dynamic log analysis and help novice programmers in the security domain.</li>
-<li>2. Conducting field study and literature survey on tools for debugging database queries. After studying the current tool features and challenges and perusing the tools and applications developed so far, Sneha aims to develop a novel tool that will aid users to efficiently debug queries.</li>
+    <li> She is developing a tool; “LogVis” that visualizes logs of Android mobile applications. This is a collaborative project with Maryland Cybersecurity Centre (MC2) to build on existing work in static code analysis and dynamic log analysis and help novice programmers in the security domain.</li>
+<li> Conducting field study and literature survey on tools for debugging database queries. After studying the current tool features and challenges and perusing the tools and applications developed so far, Sneha aims to develop a novel tool that will aid users to efficiently debug queries.</li>
     </ol>
 She enjoys graphic designing where she crafts intuitive, impressive and pixel-perfect designs!
         <br/><p class="contact-item">Email: sgathani(@)cs.umd.edu</p>
