@@ -88,13 +88,18 @@ title: About Us
 <div class="about-items">
     <div class="about-item-img">
     <img
-        src="{{site.baseurl}}/public/apple-touch-icon-precomposed.png"
+        src="{{site.baseurl}}/public/snehagathani.png"
         alt="Markdown Monster icon"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Sneha Gathani</h2>
-        Curabitur ac lacus massa. In vel sem non mi pellentesque ornare eu sit amet felis. Maecenas nec neque non massa volutpat venenatis quis varius sapien. Cras porta aliquam nulla convallis finibus. Praesent facilisis sapien eu rhoncus suscipit. Proin fermentum ex erat, eget venenatis arcu efficitur a. Donec vulputate eget ante eu tincidunt. Praesent lacinia facilisis placerat. Mauris scelerisque sem id neque gravida iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas sollicitudin odio nec dui accumsan, quis dignissim nunc semper. Vivamus gravida urna convallis dolor finibus hendrerit. Aliquam justo justo, facilisis euismod tempus ac, euismod non lectus. In tincidunt laoreet tellus id dignissim. Vestibulum sit amet leo imperdiet, cursus erat eget, semper sem. Duis laoreet ultricies dolor, in elementum ex viverra in.
-        <br/><p class="contact-item">Email: patil(@)cs.umd.edu</p>
+        Sneha Gathani is a Master’s student in the Computer Science department. She did her undergrad from India and is researching over the past one year. She is currently working on 2 research projects:<br>
+<ol>
+    <li>1. She is developing a tool; “LogVis” that visualizes logs of Android mobile applications. This is a collaborative project with Maryland Cybersecurity Centre (MC2) to build on existing work in static code analysis and dynamic log analysis and help novice programmers in the security domain.</li>
+<li>2. Conducting field study and literature survey on tools for debugging database queries. After studying the current tool features and challenges and perusing the tools and applications developed so far, Sneha aims to develop a novel tool that will aid users to efficiently debug queries.</li>
+    </ol>
+She enjoys graphic designing where she crafts intuitive, impressive and pixel-perfect designs!
+        <br/><p class="contact-item">Email: sgathani(@)cs.umd.edu</p>
     </div>
 </div>
 
