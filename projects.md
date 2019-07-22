@@ -40,3 +40,12 @@ title: Our Projects
         </div>
     </div>
 </div>
+
+<div class="project-items">
+    <div class="project-item">
+        <div class="project-item-des">
+            <h2 class="project-name">LogVis</h2>
+            Android being a call-back oriented language has a series of internal conditional triggering’s being made when an application is launched. These triggering’s are called call-backs which may access permissions without the knowledge of the user. This poses mass vulnerabilities involved in using applications and a threat to users data. To understand the true triggering’s and what is causing them, analysts would like to observe application at runtime. <i>Maryland Cybersecurity Center (MC2)</i> developed an Android Analytics Tools; <i>Hogarth</i> which dynamically traces the logs on application launch. For this purpose there is a need to log the calls being made and Hogarth uses Redexer for the same. However, outputs provided by these applications are very textual or work-flow based which enforces a lot of cognitive load on the user and jumping of applications from log files to source code files. For helping analysts work more efficiently with these logs, LogVis, is an interactive visualisation tool which encompasses procedures of what a reverse engineer does to analyse dynamic trace of a running application.
+        </div>
+    </div>
+</div>
