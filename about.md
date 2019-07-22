@@ -88,7 +88,7 @@ title: About Us
 <div class="about-items">
     <div class="about-item-img">
     <img
-        src="{{site.baseurl}}/public/snehagathani.png"
+        src="{{site.baseurl}}/public/sneha.png"
         alt="Markdown Monster icon"/>
     </div>
     <div class="about-item-des">
