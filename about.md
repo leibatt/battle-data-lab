@@ -25,7 +25,7 @@ title: About Us
             alt="AmeyaBP"/>
     </div>
     <div class="about-item-des">
-        <h2 class="about-name">Amaya Patil</h2>
+        <h2 class="about-name">Ameya Patil</h2>
         Ameya is a Master’s student in the Department of Computer Science. Having completed his undergraduate studies in Computer Science from BITS-Pilani Goa Campus, India, he also worked for 2 years as a software developer at NVIDIA Graphics in the GeForce Experience gaming products team. Currently at UMD, he is involved in research in the domain of user behaviour modelling. Particularly, his work revolves around using deep learning techniques to find patterns in user behaviour while performing visual data exploration and developing models to predict the behaviour. His interests also include computer vision and graphics which has translated into picking up digital photography as his hobby.
         <br/><p class="contact-item">Email: ameyap(@)cs.umd.edu</p>
     </div>
