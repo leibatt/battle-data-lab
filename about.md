@@ -21,7 +21,7 @@ title: About Us
 <div class="about-items">
     <div class="about-item-img">
         <img
-            src="https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/me_6.jpg"
+            src="{{site.baseurl}}/public/ameya.jpg"
             alt="AmeyaBP"/>
     </div>
     <div class="about-item-des">
