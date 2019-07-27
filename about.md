@@ -139,3 +139,17 @@ She enjoys graphic designing where she crafts intuitive, impressive and pixel-pe
     </div>
 </div>
 
+<div class="about-items">
+    <div class="about-item-img">
+    <img
+        src="{{site.baseurl}}/public/danni.jpg"
+        alt="Danni"
+		style="width:24rem;height:30rem;"/>
+    </div>
+    <div class="about-item-des">
+        <h2 class="about-name">Danni Feng</h2>
+	Danni Feng is a senior student pursuing computer science and statistics double degree at University of Maryland. She is an Android developer at Maryland Transportation Institute (MTI), and her work involves developing a big data based travel app to reduce energy use and congestion. For her research experience, she is currently working on Dr. Battle's Beagle 2.0 project, studying human interaction with D3.js. Specifically, this project focuses on scraping related data from Github, Reddit, and StackOverFlow, conducting qualitative analysis based on retrieved data and aiming to provide a guide for d3.js users. Her interests include Data Science and Human Computer Interaction (HCI).
+        <br/><p class="contact-item">Email: fengdn@terpmail.umd.edu</p>
+    </div>
+</div>
+
