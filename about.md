@@ -8,7 +8,7 @@ title: About Us
         <img
             src="http://www.cs.umd.edu/~leilani/static/img/leilani_pp2.jpg"
             alt="Dr. Battle"
-			style="width:30rem;height:30rem;"/>
+            style="width:30rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
     <h2 class="about-name">Dr. Leilani Battle</h2>
@@ -24,7 +24,7 @@ title: About Us
         <img
             src="{{site.baseurl}}/public/ameya.jpg"
             alt="AmeyaBP"
-			style="width:30rem;height:30rem;"/>
+            style="width:30rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Ameya Patil</h2>
@@ -38,7 +38,7 @@ title: About Us
         <img
             src="https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/me_6.jpg"
             alt="Karthik BP"
-			style="width:30rem;height:30rem;"/>
+            style="width:30rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Kartik Krishnan</h2>
@@ -52,7 +52,7 @@ title: About Us
         <img
             src="https://www.ohdsi.org/wp-content/uploads/2017/02/sigfried-head-400x400.jpg"
             alt="Mr. Sigfried Gold"
-			style="width:30rem;height:30rem;"/>
+            style="width:30rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Sigfried Gold</h2>
@@ -81,7 +81,7 @@ title: About Us
     <img
         src="{{site.baseurl}}/public/deepthi.jpg"
         alt="Markdown Monster icon"
-		style="width:30rem;height:30rem;"/>
+        style="width:30rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Deepthi Raghunandan</h2>
@@ -95,7 +95,7 @@ title: About Us
     <img
         src="{{site.baseurl}}/public/sneha.png"
         alt="Markdown Monster icon"
-		style="width:30rem;height:30rem;"/>
+        style="width:30rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Sneha Gathani</h2>
@@ -116,7 +116,7 @@ She enjoys graphic designing where she crafts intuitive, impressive and pixel-pe
     <img
         src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/65846586_669703810144784_1777843300623974400_o.jpg?_nc_cat=110&_nc_oc=AQnXpnVmD0UXkS6uaICDcjGdg-Z8PLCRcDsM1tduGIMDZRvDVpZeavWLtzJAGQ8z3Ig&_nc_ht=scontent-iad3-1.xx&oh=346a7f37d945c2b1a999a3e42aa85d9d&oe=5DBB21A7"
         alt="Kelli's headshot"
-		style="width:30rem;height:30rem;"/>
+        style="width:35rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Kelli Webber</h2>
@@ -129,7 +129,8 @@ She enjoys graphic designing where she crafts intuitive, impressive and pixel-pe
     <div class="about-item-img">
     <img
         src="{{site.baseurl}}/public/rachael.jpeg"
-        alt="Markdown Monster icon"/>
+        alt="Markdown Monster icon"
+        style="width:25rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Rachael Zehrung</h2>
@@ -143,11 +144,11 @@ She enjoys graphic designing where she crafts intuitive, impressive and pixel-pe
     <img
         src="{{site.baseurl}}/public/yukun.jpg"
         alt="Markdown Monster icon"
-		style="width:20rem;height:30rem;"/>
+        style="width:20rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Yukun Zheng</h2>
-	Yukun is a undergraduate student in the Department of Computer Science at University of Maryland. She is studying computer science and applied math. She worked as a research intern at National Supercomputer center in Guangzhou, China, in summer 2018. She is working on the crossfilter benchmark project, which is about evaluating the performances of several databases, a benchmark assessing the database workloads created from interactive data exploration using logs gathered from the crossfilter study. In her free time, she likes to play videos games(Tom Clancy's Rainbow Six Siege, Monster Hunter: World, etc).
+    Yukun is a undergraduate student in the Department of Computer Science at University of Maryland. She is studying computer science and applied math. She worked as a research intern at National Supercomputer center in Guangzhou, China, in summer 2018. She is working on the crossfilter benchmark project, which is about evaluating the performances of several databases, a benchmark assessing the database workloads created from interactive data exploration using logs gathered from the crossfilter study. In her free time, she likes to play videos games(Tom Clancy's Rainbow Six Siege, Monster Hunter: World, etc).
         <br/><p class="contact-item">Email: yzheng11@umd.edu</p>
     </div>
 </div>
@@ -157,11 +158,11 @@ She enjoys graphic designing where she crafts intuitive, impressive and pixel-pe
     <img
         src="{{site.baseurl}}/public/danni.jpg"
         alt="Danni"
-		style="width:24rem;height:30rem;"/>
+        style="width:24rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Danni Feng</h2>
-	Danni Feng is a senior student pursuing computer science and statistics double degree at University of Maryland. She is an Android developer at Maryland Transportation Institute (MTI), and her work involves developing a big data based travel app to reduce energy use and congestion. For her research experience, she is currently working on Dr. Battle's Beagle 2.0 project, studying human interaction with D3.js. Specifically, this project focuses on scraping related data from Github, Reddit, and StackOverFlow, conducting qualitative analysis based on retrieved data and aiming to provide a guide for d3.js users. Her interests include Data Science and Human Computer Interaction (HCI).
+    Danni Feng is a senior student pursuing computer science and statistics double degree at University of Maryland. She is an Android developer at Maryland Transportation Institute (MTI), and her work involves developing a big data based travel app to reduce energy use and congestion. For her research experience, she is currently working on Dr. Battle's Beagle 2.0 project, studying human interaction with D3.js. Specifically, this project focuses on scraping related data from Github, Reddit, and StackOverFlow, conducting qualitative analysis based on retrieved data and aiming to provide a guide for d3.js users. Her interests include Data Science and Human Computer Interaction (HCI).
         <br/><p class="contact-item">Email: fengdn@terpmail.umd.edu</p>
     </div>
 </div>
