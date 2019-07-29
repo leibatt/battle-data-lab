@@ -7,7 +7,8 @@ title: About Us
     <div class="about-item-img">
         <img
             src="http://www.cs.umd.edu/~leilani/static/img/leilani_pp2.jpg"
-            alt="Dr. Battle"/>
+            alt="Dr. Battle"
+			style="width:30rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
     <h2 class="about-name">Dr. Leilani Battle</h2>
@@ -21,11 +22,12 @@ title: About Us
 <div class="about-items">
     <div class="about-item-img">
         <img
-            src="https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/me_6.jpg"
-            alt="AmeyaBP"/>
+            src="{{site.baseurl}}/public/ameya.jpg"
+            alt="AmeyaBP"
+			style="width:30rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
-        <h2 class="about-name">Amaya Patil</h2>
+        <h2 class="about-name">Ameya Patil</h2>
         Ameya is a Master’s student in the Department of Computer Science. Having completed his undergraduate studies in Computer Science from BITS-Pilani Goa Campus, India, he also worked for 2 years as a software developer at NVIDIA Graphics in the GeForce Experience gaming products team. Currently at UMD, he is involved in research in the domain of user behaviour modelling. Particularly, his work revolves around using deep learning techniques to find patterns in user behaviour while performing visual data exploration and developing models to predict the behaviour. His interests also include computer vision and graphics which has translated into picking up digital photography as his hobby.
         <br/><p class="contact-item">Email: ameyap(@)cs.umd.edu</p>
     </div>
@@ -35,7 +37,8 @@ title: About Us
     <div class="about-item-img">
         <img
             src="https://www.cs.umd.edu/sites/default/files/styles/medium/public/images/userpictures/me_6.jpg"
-            alt="Karthik BP"/>
+            alt="Karthik BP"
+			style="width:30rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Kartik Krishnan</h2>
@@ -48,7 +51,8 @@ title: About Us
     <div class="about-item-img">
         <img
             src="https://www.ohdsi.org/wp-content/uploads/2017/02/sigfried-head-400x400.jpg"
-            alt="Mr. Sigfried Gold"/>
+            alt="Mr. Sigfried Gold"
+			style="width:30rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Sigfried Gold</h2>
@@ -76,7 +80,8 @@ title: About Us
     <div class="about-item-img">
     <img
         src="{{site.baseurl}}/public/deepthi.jpg"
-        alt="Markdown Monster icon"/>
+        alt="Markdown Monster icon"
+		style="width:30rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Deepthi Raghunandan</h2>
@@ -88,13 +93,21 @@ title: About Us
 <div class="about-items">
     <div class="about-item-img">
     <img
-        src="{{site.baseurl}}/public/apple-touch-icon-precomposed.png"
-        alt="Markdown Monster icon"/>
+        src="{{site.baseurl}}/public/sneha.png"
+        alt="Markdown Monster icon"
+		style="width:30rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Sneha Gathani</h2>
-        Curabitur ac lacus massa. In vel sem non mi pellentesque ornare eu sit amet felis. Maecenas nec neque non massa volutpat venenatis quis varius sapien. Cras porta aliquam nulla convallis finibus. Praesent facilisis sapien eu rhoncus suscipit. Proin fermentum ex erat, eget venenatis arcu efficitur a. Donec vulputate eget ante eu tincidunt. Praesent lacinia facilisis placerat. Mauris scelerisque sem id neque gravida iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas sollicitudin odio nec dui accumsan, quis dignissim nunc semper. Vivamus gravida urna convallis dolor finibus hendrerit. Aliquam justo justo, facilisis euismod tempus ac, euismod non lectus. In tincidunt laoreet tellus id dignissim. Vestibulum sit amet leo imperdiet, cursus erat eget, semper sem. Duis laoreet ultricies dolor, in elementum ex viverra in.
-        <br/><p class="contact-item">Email: patil(@)cs.umd.edu</p>
+        Sneha Gathani is a Master's student in the Computer Science department. She did her undergrad from India and is researching over the past one year. She is currently working on 2 research projects:
+<ol>
+    <li>She is developing a tool; "LogVis" that visualizes logs of Android mobile applications. This is a collaborative project with Maryland Cybersecurity Centre (MC2) to build on existing work in static code analysis and dynamic log analysis and help novice programmers in the security domain.</li>
+    <li>Conducting field study and literature survey on tools for debugging database queries. After studying the current tool features and challenges and perusing the tools and applications developed so far, Sneha aims to develop a novel tool that will aid users to efficiently debug queries.</li>
+</ol>
+
+She enjoys graphic designing where she crafts intuitive, impressive and pixel-perfect designs!
+
+        <br/><p class="contact-item">Email: sgathani(@)cs.umd.edu</p>
     </div>
 </div>
 
@@ -102,7 +115,8 @@ title: About Us
     <div class="about-item-img">
     <img
         src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/65846586_669703810144784_1777843300623974400_o.jpg?_nc_cat=110&_nc_oc=AQnXpnVmD0UXkS6uaICDcjGdg-Z8PLCRcDsM1tduGIMDZRvDVpZeavWLtzJAGQ8z3Ig&_nc_ht=scontent-iad3-1.xx&oh=346a7f37d945c2b1a999a3e42aa85d9d&oe=5DBB21A7"
-        alt="Kelli's headshot"/>
+        alt="Kelli's headshot"
+		style="width:30rem;height:30rem;"/>
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Kelli Webber</h2>
@@ -110,6 +124,7 @@ title: About Us
         <br/><p class="contact-item">Email:kwebber1@terpmail.umd.edu</p>
     </div>
 </div>
+
 <div class="about-items">
     <div class="about-item-img">
     <img
@@ -120,5 +135,19 @@ title: About Us
         <h2 class="about-name">Rachael Zehrung</h2>
         Rachael recently graduated from UMD with a BS in Computer Science and a BA in Germanic Studies, as well as an Honors College Citation in Cybersecurity. Currently, she works on developing a user study to evaluate differing levels of trust in visualization recommendation systems. She is also working on the user study for Lodestar. Her interests involve the intersection of data visualization, human-computer interaction, and natural languages. In the fall, she plans on applying to PhD programs in Computer Science.
         <br/><p class="contact-item">Email:rzehrung(@)umd.edu</p>
+    </div>
+</div>
+
+<div class="about-items">
+    <div class="about-item-img">
+    <img
+        src="{{site.baseurl}}/public/yukun.jpg"
+        alt="Markdown Monster icon"
+		style="width:20rem;height:30rem;"/>
+    </div>
+    <div class="about-item-des">
+        <h2 class="about-name">Yukun Zheng</h2>
+	Yukun is a undergraduate student in the Department of Computer Science at University of Maryland. She is studying computer science and applied math. She worked as a research intern at National Supercomputer center in Guangzhou, China, in summer 2018. She is working on the crossfilter benchmark project, which is about evaluating the performances of several databases, a benchmark assessing the database workloads created from interactive data exploration using logs gathered from the crossfilter study. In her free time, she likes to play videos games(Tom Clancy's Rainbow Six Siege, Monster Hunter: World, etc).
+        <br/><p class="contact-item">Email: yzheng11@umd.edu</p>
     </div>
 </div>
