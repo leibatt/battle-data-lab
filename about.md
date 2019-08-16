@@ -40,7 +40,7 @@ title: About Us
 
     <div class="about-item-img">
         <img
-            src="{{site.baseurl}}/public/kartik.jpg"
+            src="{{site.baseurl}}/public/Kartik.jpg"
             alt="Karthik BP"
             style="width:30rem;height:30rem;"/>
     </div>
