@@ -6,7 +6,7 @@
   max-width: 200rem;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
-  padding-bottom: 150px;
+  padding-bottom: 35px;
   margin-left: auto;
   margin-right: auto;
 
@@ -105,6 +105,21 @@ footer {
   padding-left: 1.5rem;
   background-color: #ffd200;
   color: #000000;
+  
+  .footerimg {
+    display: flex;
+    justify-content: center;
+    padding-left: 50rem;
+    padding-right: 50rem;
+    margin: auto;
+
+    .footerimg-link {
+      img {
+        width: 100%;
+        margin: auto;
+      }
+    }
+  }
 }
 
 @media (max-width > 600px) {
