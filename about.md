@@ -129,7 +129,7 @@ She enjoys graphic designing where she crafts intuitive, impressive and pixel-pe
 
     <div class="about-item-img">
     <img
-        src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/65846586_669703810144784_1777843300623974400_o.jpg?_nc_cat=110&_nc_oc=AQnXpnVmD0UXkS6uaICDcjGdg-Z8PLCRcDsM1tduGIMDZRvDVpZeavWLtzJAGQ8z3Ig&_nc_ht=scontent-iad3-1.xx&oh=346a7f37d945c2b1a999a3e42aa85d9d&oe=5DBB21A7"
+        src="{{site.baseurl}}/public/kelli.jpg"
         alt="Kelli's headshot"
         style="width:35rem;height:30rem;"/>
     </div>
@@ -199,7 +199,7 @@ She enjoys graphic designing where she crafts intuitive, impressive and pixel-pe
     </div>
     <div class="about-item-des">
         <h2 class="about-name">Peter Lim</h2>
-    Description: Peter Lim is a senior undergraduate student at the University of Maryland, College Park. He is currently pursuing in Information Science with a concentration of Data Science and Software Engineer. Currently, he is working with Dr. Leilani Battle on a visual debugger application where programmers can debug their code through the interface and help ease their problem when debugging. He is also helping conduct a field study on what tools or software that people use during work. Peter is excited to learn more so that he can apply his skills to the real world. In his spare time, Peter likes to take landscape photos and currently learning Japanese on his own… slowly.
+    Peter Lim is a senior undergraduate student at the University of Maryland, College Park. He is currently pursuing in Information Science with a concentration of Data Science and Software Engineer. Currently, he is working with Dr. Leilani Battle on a visual debugger application where programmers can debug their code through the interface and help ease their problem when debugging. He is also helping conduct a field study on what tools or software that people use during work. Peter is excited to learn more so that he can apply his skills to the real world. In his spare time, Peter likes to take landscape photos and currently learning Japanese on his own… slowly.
         <br/><p class="contact-item">Email: tmp@terpmail.umd.edu</p>
     </div>
 

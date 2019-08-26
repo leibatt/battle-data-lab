@@ -6,6 +6,7 @@
 .page,
 .post {
   margin-bottom: 4em;
+  font-size: 18px;
 
   li+li {
     margin-top: .25rem;
@@ -79,11 +80,12 @@
 
 .project-item {
   .project-name {
-    font-size: 30px;
+    font-size: 35px;
   }
 
   .project-item-des {
     width: 100%;
+    font-size: 20px;
   }
 
   .project-item-img {
@@ -96,8 +98,6 @@
     font-size: .5rem;
   }
 }
-
-
 
 // Related posts
 .related {
@@ -133,31 +133,31 @@
   }
 }
 
-@media screen and (max-width: 1000px) {
-  .about-items {
-    display: block;
-    justify-content: center;
-  }
-
-}
-
-@media screen and (max-width: 620px) {
+@media screen and (max-width: 600px) {
   .about-items {
     display: block;
     justify-content: center;
   }
 
   .page-title {
-    font-size: 20px;
+    font-size: 24px;
   }
 
-  .about-item-des .about-name {
+  .about-item-des {
     font-size: 15px;
-    font-weight: bold;
+
+      .about-name {
+      font-size: 18px;
+      font-weight: bold;
+    }
   }
 
   .project-item .project-name {
     font-size: 18px;
+  }
+
+  .project-item .project-item-des {
+    font-size: 15px;
   }
 }
 
@@ -172,15 +172,24 @@
   }
 
   .page-title {
-    font-size: 20px;
+    font-size: 24px;
   }
 
-  .about-item-des .about-name {
+  .about-item-des {
     font-size: 15px;
-    font-weight: bold;
+
+      .about-name {
+      font-size: 18px;
+      font-weight: bold;
+    }
+
   }
 
   .project-item .project-name {
     font-size: 18px;
+  }
+
+  .project-item .project-item-des {
+    font-size: 15px;
   }
 }
