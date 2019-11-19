@@ -36,7 +36,7 @@ title: Our Projects
 
     <div class="project-item">
         <div class="project-item-des">
-            <h2 class="project-name">Notebook Evolution</h2>
+            <h2 class="project-name">Code Code Evolution</h2>
             Data science is quickly becoming a critical factor in the success of many industries, institutions and organizations, and as a result the popularity of the field continues to surge.
             Within this space, computational notebooks are a popular medium for data analysts to record and execute the various stages of the data analysis process. Over 2.7 million computational notebooks were shared online in 2018 and this number only continues to grow, showing the popularity of this platform.
             Previously, Rule et al. have observed that computational notebooks do not provide the kind of support which data analysts require to both document and share their exploratory analysis processes. However, it is still unclear how to design new data science tools that can quickly adapt to changes in the way people analyze their data.
