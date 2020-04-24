@@ -5,7 +5,7 @@
 
 <body>
 
-    <div class="container content">
+    <div class="container">
         <header class="masthead">
             <h3 class="masthead-title">
                 <small>{{ site.tagline }}</small>
@@ -32,13 +32,17 @@
             </div>
         </div>
 
-        <main>
-            {{ content }}
+        <main class="main">
+            <article class="page">
+                <div class="page-content">
+                    {{ content }}
+                </div>
+            </article>
         </main>
 
     </div>
     <footer class="footer">
-        <div class="footerimg">
+        <div style="padding-left:45%; padding-right:45%; padding-top:1.5%;" class="footerimg">
             <a class="footerimg-link" href="https://www.cs.umd.edu/">
             <img src="{{site.baseurl}}/public/cs.png"></img></a>
         </div>

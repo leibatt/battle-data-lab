@@ -2,19 +2,23 @@
 //
 // Styles for managing the structural hierarchy of the site.
 
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 .container {
   max-width: 200rem;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-  padding-bottom: 35px;
-  margin-left: auto;
-  margin-right: auto;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
 
   .banner {
-    display: flex;
+    display: block;
     justify-content: center;
-    padding-left: 8rem;
-    padding-right: 8rem;
+    padding-left: 30%;
+    padding-right: 30%;
     margin: auto;
 
     .banner-link {
@@ -31,8 +35,7 @@
     justify-content: center;
     display: flex;
     width: 100%;
-    height: auto;
-    font-size: 24px;
+    font-size: 100%;
 
     .navigation-item {
       display: block;
@@ -101,55 +104,22 @@
   }
 }
 
-// footer {
-//   padding-top: 1rem;
-//   padding-left: 1.5rem;
-//   background-color: #ffd200;
-//   color: #000000;
-  
-//   .footerimg {
-//     display: flex;
-//     justify-content: center;
-//     padding-left: 50rem;
-//     padding-right: 50rem;
-//     margin: auto;
-
-//     .footerimg-link {
-//       img {
-//         width: 100%;
-//         margin: auto;
-//       }
-//     }
-//   }
-// }
-
 .footer {
-  padding-top: 5rem;
-  padding-left: 35rem;
-  padding-right: 35rem;
-  overflow: hidden;
+  background-color: #ffd200;
   text-align:center;
-  background-color:#ffd200;
+  height: 10%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1280px) {
   body { line-height: 1.4; }
-
-  .footer {
-    padding-top: 5rem;
-    padding-left: 20rem;
-    padding-right: 20rem;
-  }
 }
 
 @media (max-width: 600px) {
   body { line-height: 1.4; }
-
-  .footer {
-    padding-top: 5rem;
-    padding-left: 10rem;
-    padding-right: 10rem;
-  }
 }
 
 @media screen and (max-width: 480px) {
@@ -159,12 +129,6 @@
 
   .container .navigation .dropdown {
     display: block;
-    font-size: 20px;
-  }
-
-  .footer {
-    padding-top: 5rem;
-    padding-left: 10rem;
-    padding-right: 10rem;
+    font-size: 100%;
   }
 }
