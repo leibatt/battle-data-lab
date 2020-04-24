@@ -3,10 +3,16 @@
 // Each post is wrapped in `.post` and is used on default and post layouts. Each
 // page is wrapped in `.page` and is only used on the page layout.
 
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
 .page,
 .post {
   margin-bottom: 4em;
   font-size: 18px;
+  display: block;
 
   li+li {
     margin-top: .25rem;
@@ -24,6 +30,8 @@
 .post-title {
   margin-top: 2rem;
   color: #E21833;
+  display: block;
+  flex-direction: column;
 }
 
 // Meta data line below post title
@@ -35,7 +43,9 @@
 }
 
 .page-content {
-  margin-top: 2rem;
+  margin-top: 5%;
+  display: block;
+  flex-direction: column;
 }
 
 .about-items {
@@ -60,8 +70,9 @@
 
 .about-item-des {
   display: block;
+  flex-direction: column;
   width: 100%;
-
+  
   .about-name {
     font-size: 24px;
   }
@@ -76,20 +87,26 @@
   height: auto;
   justify-content: center;
   margin-top: 2rem;
+  display: block;
 }
 
 .project-item {
+  display: block;
+
   .project-name {
     font-size: 35px;
+    display: block;
   }
 
   .project-item-des {
+    display: block;
     width: 100%;
     font-size: 20px;
   }
 
   .project-item-img {
     width: 100%;
+    display: block;
   }
 
   .caption {

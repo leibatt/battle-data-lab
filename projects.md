@@ -7,7 +7,15 @@ title: Our Projects
     <div class="project-item">
         <div class="project-item-des">
             <h2 class="project-name">Lodestar</h2>
-            Keeping abreast of current trends, technologies, and best practices in statistics, visualization, and data analysis is becomingincreasingly difficult even for professional data scientists, and is a hopeless endeavor for domain experts lacking time and trainingin these methods.  In this paper, we propose Lodestar, an interactive visualization notebook that allows the user to perform visualdata analysis by selecting from a list of recommendations. Selecting a recommendation adds the corresponding Python code to thenotebook and executes it, thus generating new output; no programming expertise is required on behalf of the user. The recommendationmechanism is inspired byautocompletemechanisms, where a partial query is used to show suggestions for how to finish the query. Inour implementation, we derive our recommendations from a directed graph of analysis states: one manually curated from online datascience tutorials, another by automatically analyzing the Python code from a corpus of approximately 6,000 Jupyter notebooks on datascience. We demonstrate the Lodestar approach through a set of examples involving statistics, machine learning, and visualization.
+            Keeping abreast of current trends, technologies, and best practices in statistics, visualization, and data analysis is becoming
+            increasingly difficult even for professional data scientists, and is a hopeless endeavor for domain experts lacking time and training.
+            In this paper, we propose Lodestar, an interactive visualization sandbox that allows users to perform visual data analysis simply by
+            selecting from a list of recommendations. Choosing a recommendation adds the corresponding Python code to the notebook and
+            executes it, thus generating new output. The recommendation engine is inspired by autocomplete mechanisms, where a partial query is
+            used to show suggestions for how to finish it. In our implementation, we derive our recommendations from a directed graph of analysis
+            states: one manually curated from online data science tutorials, another by automatically analyzing the Python code from a corpus of
+            approximately 6,000 Jupyter notebooks on data science. We evaluated Lodestar through a two-phase evaluation sequence: a formative
+            study guiding our next set of improvements to the tool, followed by a summative study assessing its utility for novice data scientists.
         </div>
         <img class="project-item-img" src="{{site.baseurl}}/public/lodestarintro.PNG" alt="the lodestar system"/>
         <div class="caption"> Figure: Lodestar interface. The top panel (A) provides a data selection menu. (B) and (D) are recommendation panels (DESCRIPTION is selected for this notebook) combining suggested analysis steps from various sources (called advisors). (C) and (E) are analysis cells, each with multiple tabs: “Analysis Results” gives charts or tables, “Output Dataframe” and “Code Script” shows the outputs and current code block, and “What’s this analysis?” gives a brief description of the analyses. Outputs, code scripts, and charts can be exported into files by clicking on the associated buttons.
@@ -37,11 +45,16 @@ title: Our Projects
     <div class="project-item">
         <div class="project-item-des">
             <h2 class="project-name">Code Code Evolution</h2>
-            Data science is quickly becoming a critical factor in the success of many industries, institutions and organizations, and as a result the popularity of the field continues to surge.
-            Within this space, computational notebooks are a popular medium for data analysts to record and execute the various stages of the data analysis process. Over 2.7 million computational notebooks were shared online in 2018 and this number only continues to grow, showing the popularity of this platform.
-            Previously, Rule et al. have observed that computational notebooks do not provide the kind of support which data analysts require to both document and share their exploratory analysis processes. However, it is still unclear how to design new data science tools that can quickly adapt to changes in the way people analyze their data.
-            We observe that GitHub is essentially a living history of data science practices, providing a unique opportunity to observe both macro- (i.e., community) and micro-scale (i.e., individual) patterns and trends in data science. By analyzing the GitHub history of users, we can better understand how the process unfolds over time, and extract these trends automatically. 
-            We scrape public notebooks from GitHub and observe trends in data analysis processes across time. We note the shifts in API usage, changes in the popularity of programming languages, and trends in analysis techniques with computational notebooks. The results of our analyses can be used to create new evaluation metrics and design guidelines for data analysis tools in the future. 
+            The advent of open source computational notebooks has changed the landscape for analysts looking to document
+            visualizations, code, and annotate various stages of the analysis process under one platform. The use of GitHub in conjunction
+            with computational notebooks provides a unique opportunity to study the data analysis process over time. We present a threepart
+            quantitative study that examines process-based data science workflows in the context of Jupyter notebooks. The first study
+            demonstrates how to identify correlations between a user’s data analysis behavior and observable GitHub interactions. The second
+            study establishes a methodology by which data science workflows can be characterized within notebooks: in particular, exploration and
+            explanation. In the last study, we apply this methodology to investigate shifts in workflows across time. All three parts examine the
+            evolving role of visualization from exploration and analysis to communication and documentation. We use these observations as an
+            opportunity to encourage a design/re-design of data science and visualization tools to better support process-based workflows. Our
+            data and code are available online: https://osf.io/9q4wp/?view_only=61e6f58d29194742a0aaed328afdea4d.
         </div>
     </div>
 
