@@ -1,0 +1,36 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  website
+#  descr
+
+## order by last name
+
+- name: Hannah Bako
+  photo: hannah.jpeg
+  info: PhD Student
+  email: hbako(@)cs.umd.edu
+  website: https://www.cs.umd.edu/people/hbako
+  descr: Hannah is a PhD student at the Department of Computer Science in the University of Maryland College Park. She holds a MSc (2019) in Software Engineering from Stevens Institute of Technology and a BSc (2015) in Computer Information Systems from Babcock University. Her research interests cuts across Data Science, Software Engineering and Human Computer Interaction, with a focus on developing tools that facilitate efficient data analysis and presentation practices, prioritize the needs of users and are accessible to data analysts of various proficencies. Outside of research, she is a plant and fitness enthusiast who enjoys baking.
+
+- name: Sneha Gathani
+  photo: sneha.png
+  info: PhD Student
+  email: sgathani(@)cs.umd.edu
+  website: https://sneha-gathani.github.io/
+  descr: Sneha is a PhD student in the Department of Computer Science. She graduated from UMD with a Master’s degree while exploring research in data viz. Sneha is currently working on deriving a generalized model of user’s analytic tasks and interaction patterns observed across different systems. She is also contributing to the Code Code Evolution project to understand how analysts explore data with computational notebooks and deliver insights after long term analysis. In her spare time she loves painting and making jigsaw puzzles!
+
+- name: Deepthi Raghunandan
+  photo: deepthi.png
+  info: PhD Student
+  email: draghun1(@)cs.umd.edu
+  website: https://www.cs.umd.edu/~draghun1/
+  descr: I am a PhD student researching and building interactive data analytic systems as part of the BAD Lab, under advisor Dr. Leilani Battle. Before entering the program, I spent four years as a software developer at Microsoft, actively working on client side software in the Windows Phone and Skype for Business divisions. This got me invested in prioritizing user experience during system development. I've also spent two years working on personal start-up projects, which planted the motivational seeds for my current research. I am a proud Terp alum! I graduated from the University of Maryland with undergraduate degrees in Computer Science and Economics. When I’m not working towards another degree, you’ll probably find me in the kitchen cooking up a storm!
+
+- name: Zehua Zeng
+  photo: zehua.jpg
+  info: PhD Student
+  email: zzeng(@)cs.umd.edu
+  website: https://www.cs.umd.edu/~zzeng/
+  descr: Zehua is a Ph.D. student at Department of Computer Science, Unversity of Maryland, College Park. She holds a MSc in Computer Science from University of Maryland, and a BEng in Telecommunication Engineering from Beijing University of Post and Telecommunication. Her research interests include Visualization Recommendation, Visual Analytics, and general Human-Computer Interaction. Outside of research, Zehua also likes competitive shooting, and sewing.

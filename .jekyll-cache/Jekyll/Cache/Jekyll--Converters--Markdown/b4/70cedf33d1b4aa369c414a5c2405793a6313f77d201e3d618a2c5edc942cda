@@ -1,0 +1,50 @@
+I"�<h1 id="projects">Projects</h1>
+
+<h2 id="ongoing-projects">Ongoing Projects</h2>
+
+<div class="well">
+  <pubtit><h4><b>Beagle&#58; Interactive Visualizations</b></h4></pubtit>
+
+  <p><img src="http://localhost:4000/images/projpic/beagle.png" class="img-responsive" width="45%" style="float: left" /></p>
+
+  <p><em>Spring 2018 ~ Current</em></p>
+  <p><b>Members:</b> <em><b style="color:#cc3300">Hannah Bako, Alisha Varma, Anu Faboro, Mahreen Haider, Leilani Battle</b></em></p>
+
+  <p><b>Past Members:</b> <em>Arjun Nair, Kelli Webber, Rishik Narayana, Danni Feng</em></p>
+
+  <p><span><a href="http://www.cs.umd.edu/~leilani/static/papers/CHI2018_cr_battle_02_05_2018.pdf" target="_blank">Publication - 2018 CHI Conference, Pages 1-8</a></span></p>
+
+  <p><span><a href="https://youtu.be/Nv2CNx5xKkM" target="_blank">Video (preview)</a></span></p>
+
+  <p>With the adoption of visualizations as a means of communication in various industries, thousands of visualizations have been created and are available of the World Wide Web. The Beagle Project’s focus is on analyzing these visualizations to 1) understand how these visualizations are created and applied. 2) Understand the challenges involved in creating these visualizations. 3) To assess how users goals can be supported through automated tools. Over the years, there have been 3 phases of this project. The first phase aimed to quantify and assess how interactive visualizations are used by visualization architects on the web. The Beagle tool extracted SVG visualizations from popular visualization sharing websites. It exploits the unique positioning and characteristics of visualizations marks to extract features and couples this with Machine Learning techniques to label these visualizations with a 97% accuracy. Given the popularity of D3 visualizations among the extracted SVG’s analyzed in the first project, the second phase focused on analyzing how D3 users reason about and use its framework. This was done by assessing how users describe their challenges and reasoning process on multiple online communities such as Stackoverflow and Reddit.<br /> The results of these two phases highlighted both the dominance of D3.js as a tool for the creation of complex and interactive visualizations as well as its steep learning curve.  Past research has also highlighted a culture of visualization architects modifying existing examples to create their own visualizations. The current phase of the Beagle project leverages all of these findings to analyze a corpus of D3 visualizations scrapped from Bl.ocks.org in order to understand what programming techniques visualization architects use in creating these visualizations. We aim to strike a balance between automated guidance and user agency by first deriving a model of  how visualization designers use manual specification languages–specifically D3–to develop new visualization designs. Subsequently, we explore the application of this model in an online tool that assists developers to create visualizations via informed recommendations. Finally, we apply programming language theory to effect the direct manipulation and fitting of a users code based on their specified design goals.</p>
+</div>
+
+<h2 id="past-projects">Past Projects</h2>
+
+<div class="well">
+  <pubtit><h4><b>A Model and Application for Cross-domain Visualization System Design</b></h4></pubtit>
+
+  <p><img src="http://localhost:4000/images/projpic/cross-domian-visualization-system-design.png" class="img-responsive" width="45%" style="float: left" /></p>
+
+  <p><em>Spring 2019 ~ Summer 2020</em></p>
+  <p><b>Members:</b> <em><b style="color:#cc3300">Sneha Gathani</b>, Daniel Votipka, Kartik Krishnan, Kristopher Micinski, Jeffrey Foster, Michelle Mazurek, <b style="color:#cc3300">Leilani Battle</b></em></p>
+
+  <p>Visualization design studies are notoriously difficult to design effectively. Though existing models highlight the major pitfalls, their guidance is not as user-friendly for individuals new to design studies. We present an updated design study model providing step-by-step guidelines, concrete examples, and discussion of differences and similarities between design studies in eight different domains.  To demonstrate the value of our model and guidelines, we apply them in the security domain to help fledgling analysts reverse engineer (RE) Android applications (apps) for potential security and privacy vulnerabilities. Through our design study, we develop TraceInspector, an interactive visualization tool that integrates both static and dynamic Android app data, connects relevant temporal event sequences and method dependencies, and executes app code in a single visualization interface. Finally, we evaluate TraceInspector with nine RE users and find that the tool eases the learning of RE tasks for novice RE users, validating our synthesized design study guidance.</p>
+</div>
+
+<div class="well">
+  <pubtit><h4><b>Debugging Database Queries&#58; A Survey of Tools, Techniques, and Users</b></h4></pubtit>
+
+  <p><img src="http://localhost:4000/images/projpic/debugging-database-queries.png" class="img-responsive" width="30%" style="float: left" /></p>
+
+  <p><em>Spring 2019 ~ Fall 2019</em></p>
+  <p><b>Members:</b> <em><b style="color:#cc3300">Sneha Gathani, Peter Lim, Leilani Battle</b></em></p>
+
+  <p><span><a href="https://www.cs.umd.edu/~leilani/static/papers/gathani_debugging_CHI_2020.pdf" target="_blank">Publication - 2020 CHI Conference, Pages 1-16</a></span></p>
+
+  <p><span><a href="https://www.youtube.com/watch?v=auCLjsBi6zE" target="_blank">Video (presentation)</a></span></p>
+
+  <p>Database management systems (or DBMSs) have been around for decades, and yet are still difficult to use, particularly when trying to identify and fix errors in user programs (or queries). We seek to understand what methods have been proposed to help people debug database queries, and whether these techniques have ultimately been adopted by DBMSs (and users). We conducted an interdisciplinary review of 112 papers and tools from the database, visualization and HCI communities. To better understand whether academic and industry approaches are meeting the needs of users, we interviewed 20 database users (and some designers), and found surprising results. In particular, there seems to be a wide gulf between users’ debugging strategies and the functionality implemented in existing DBMSs, as well as proposed in the literature. In response, we propose new design guidelines to help system designers to build features that more closely match users debugging strategies.</p>
+</div>
+
+:ET

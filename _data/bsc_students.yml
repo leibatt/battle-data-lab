@@ -1,0 +1,57 @@
+#- name:
+#  photo:
+#  info:
+#  email:
+#  website
+#  descr
+
+## order by last name
+- name: Aayushi Roy
+  photo: aayushi.png
+  info: BSc Student
+  email:
+  website:
+  descr: Aayushi is a undergraduate student pursuing a dual degree in Computer Science and Psychology at the University of Maryland, College Park. She is currently working on Project Colab to understand the relationship between computational notebooks and effective collaboration. Her research interests include Software Engineering and Human Computer Interaction. Outside of research, she enjoys spreading her passion for technology through teaching and as the Co-Director of Logistics for Technica, the largest all-women and non-binary hackathon in the world.
+
+- name: Shenzhi Shi
+  photo: shenzhi.jpg
+  info: BSc Student
+  email: s.shenzhi42(@)gmail.com
+  website: https://www.linkedin.com/in/shenzhi-shi-9708751a2
+  descr: Shenzhi is an undergraduate student in the Department of Computer Science at University of Maryland. He has worked as a research intern at the Johns Hopkins Center for Computational Biology. He started his work in the Battle Data Lab on the Lodestar project, and he is currently working on Project Evolution.
+
+- name: TJ Shrestha
+  photo: tj.jpeg
+  info: BSc Student
+  email:
+  website:
+  descr: TJ is a senior undergraduate student in the Department of Computer Science at the University of Maryland, College Park. He has interned at General Dynamics Mission Systems, where he worked on predictive analytics on geographic data, and Unisys, where he worked on cloud infrastructure.  He has also worked as a teaching assistant for CMSC330 (Organization of Programming Languages). In the Battle Data Lab, TJ has worked on the Lodestar project and is currently working on Project Evolution. His interests include machine learning, data science and software development.
+
+- name: Segen Tirfe
+  photo: segen.png
+  info: BSc Student
+  email:
+  website:
+  descr: Segen is an undergraduate student majoring in Information Science at the University of Maryland, College Park. This summer she will be working with Nonprofit Princes Georges as their web developer and graphical design intern. She also will be working with Deepthi to help on the Lodestar and Project Evolution project. Her research interests are in Data Science and Human Computer Interaction. Her non technical interests are teaching and event planning!
+
+- name: Alisha Varma
+  photo: alisha.jpg
+  info: BSc Student
+  email:
+  website: https://www.linkedin.com/in/alisha-varma/
+  descr: Alisha is an Undergraduate student in the Department of Computer Science. She has taught for Girls Who Code and is a Sponsorship Organizer for Technica, the world’s largest all-women and non-binary hackathon. Alisha is currently working on the Beagle project; developing an automated user recommendation system for D3.js visualizations. The project involves conducting data analysis and modeling of the visualizations and their interactions in order to aid various skill level visualization designers. Her research interests include machine learning, cloud computing and data engineering. In her free time, you’ll likely find her at the gym, hiking or behind a camera.
+
+- name: Minhui Xie
+  photo: minhui.jpg
+  info: BSc Student
+  email: mxie123(@)umd.edu
+  website: https://pachimarii.github.io/
+  descr: Minhui is a rising senior at the University of Maryland, working towards a Bachelor’s degree in Computer Science. She worked as a software engineer intern remotely with PayPal in summer 2020. During the internship, Minhui went through the full software development lifecycle building a test registry that helps to federate tests intelligently. Currently, she is working as a research assistant on a data visualization project at Battle Data Lab. During the experience, she helped with the implementation of a data visualization recommendation interface that adapts to various recommendation strategies. She enjoys designing websites and drawing cartoons, currently, she is also into some video games, like League of Legends and World of Warcraft.
+# Peter Lim
+# Kartik Krishnan
+# Anu Faboro
+# Mahreen Haider
+# Urisha Kreem
+# Kevin Joo
+# Sarah Agarrat
+# Favour Nerrise

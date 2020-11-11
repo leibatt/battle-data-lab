@@ -1,0 +1,24 @@
+I"Ã
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit><h4><b>Database Benchmarking for Supporting Real-Time Interactive Querying of Large Data</b></h4></pubtit>
+      <p></p>
+      <iframe width="420" src="https://www.youtube.com/embed/ABDU0BAJRfw"></iframe>
+      <p><em>May 2020</em>, Leilani Battle</p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit><h4><b>Debugging Database Queries&#58; A Survey of Tools, Techniques, and Users</b></h4></pubtit>
+      <p></p>
+      <iframe width="420" src="https://www.youtube.com/embed/auCLjsBi6zE"></iframe>
+      <p><em>June 2020</em>, Sneha Gathani</p>
+    </div>
+  </div>
+
+</div>
+
+:ET

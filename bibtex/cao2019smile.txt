@@ -1,0 +1,16 @@
+@article{cao2019smile,
+author = {Cao, Lei and Tao, Wenbo and An, Sungtae and Jin, Jing and Yan, Yizhou and Liu, Xiaoyu and Ge, Wendong and Sah, Adam and Battle, Leilani and Sun, Jimeng and Chang, Remco and Westover, Brandon and Madden, Samuel and Stonebraker, Michael},
+title = {Smile: A System to Support Machine Learning on EEG Data at Scale},
+year = {2019},
+issue_date = {August 2019},
+publisher = {VLDB Endowment},
+volume = {12},
+number = {12},
+issn = {2150-8097},
+url = {https://doi.org/10.14778/3352063.3352138},
+doi = {10.14778/3352063.3352138},
+journal = {Proc. VLDB Endow.},
+month = aug,
+pages = {2230–2241},
+numpages = {12}
+}

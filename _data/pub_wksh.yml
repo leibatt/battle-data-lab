@@ -1,0 +1,40 @@
+## from the newest to the oldest
+
+- title: "Leveraging Human Learning in Interactive Data Exploration"
+  image:
+  description:
+  authors: Sanad Saha, Arash Termehchy, and Leilani Battle
+  where: CAST 2019
+  pdf:
+    url: https://cast19.athenarc.gr/files/papers/Leveraging_Human_Learning_in_Interactive_Data_Exploration.pdf
+    display: PDF
+  bib:
+    url: saha2019leveraging.txt
+    display: Bibtex
+  highlight: 0
+
+- title: "Evaluating Visual Data Analysis Systems: A Discussion Report"
+  image:
+  description:
+  authors: Leilani Battle, Marco Angelini, Carsten Binnig, Tiziana Catarci, Philipp Eichmann, Jean-Daniel Fekete, Giuseppe Santucci, Michael Sedlmair and Wesley Willett
+  where: HILDA 2018
+  pdf:
+    url: https://dl.acm.org/doi/10.1145/3209900.3209901
+    display: PDF
+  bib:
+    url: battle2018evaluating.txt
+    display: Bibtex
+  highlight: 0
+
+- title: "Position statement: The case for a visualization performance benchmark"
+  image:
+  description:
+  authors: Leilani Battle, Remco Chang, Jeffrey Heer, and Michael Stonebraker
+  where: DSIA Workshop 2017 (co-located with VIS 2017)
+  pdf:
+    url: https://ieeexplore.ieee.org/document/8339089
+    display: PDF
+  bib:
+    url: battle2017position.txt
+    display: Bibtex
+  highlight: 0

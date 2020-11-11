@@ -1,0 +1,12 @@
+@ARTICLE{battle2019role, 
+author={L. {Battle} and R. J. {Crouser} and A. {Nakeshimana} and A. {Montoly} and R. {Chang} and M. {Stonebraker}}, 
+journal={IEEE Transactions on Visualization and Computer Graphics}, 
+title={The Role of Latency and Task Complexity in Predicting Visual Search Behavior}, 
+year={2019}, 
+volume={}, 
+number={}, 
+pages={1-1}, 
+keywords={Task analysis;Complexity theory;Human computer interaction;Visualization;Data visualization;Delays;Visual search;latency;system response time;SRT}, 
+doi={10.1109/TVCG.2019.2934556}, 
+ISSN={1077-2626}, 
+month={},}

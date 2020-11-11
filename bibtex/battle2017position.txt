@@ -1,0 +1,10 @@
+@INPROCEEDINGS{battle2017position, 
+author={L. Battle and R. Chang and J. Heer and M. Stonebraker}, 
+booktitle={Proceedings of the IEEE Workshop on Data Systems for Interactive Analysis}, 
+title={Position statement: The case for a visualization performance benchmark}, 
+year={2017}, 
+pages={1--5}, 
+keywords={data analysis;data visualisation;rendering (computer graphics);Internet movie database;NASA MODIS satellite imagery dataset;Twitter streams;data analysis process;datasets massive datasets;field sensors;medical devices;personal devices;position statement;remote sensors;rendered images;social networks;visualization performance benchmark;visualization systems;Benchmark testing;Data systems;Data visualization;Tools;Visual databases;Visualization}, 
+doi={10.1109/DSIA.2017.8339089}, 
+ISSN={}, 
+month={Oct},}

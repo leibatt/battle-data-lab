@@ -1,0 +1,13 @@
+@ARTICLE{bors2019provenance,
+  author={C. {Bors} and J. {Wenskovitch} and M. {Dowling} and S. {Attfield} and L. {Battle} and A. {Endert} and O. {Kulyk} and R. S. {Laramee}},
+  journal={IEEE Computer Graphics and Applications},
+  title={A Provenance Task Abstraction Framework},
+  year={2019},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Task analysis;Data visualization;Visualization;Cognition;Analytical models;History;Provenance;Task Abstraction;Provenance Hierarchy;Visual Analytics;Framework;Conceptual Model;Sensemaking},
+  doi={10.1109/MCG.2019.2945720},
+  ISSN={},
+  month={},
+}

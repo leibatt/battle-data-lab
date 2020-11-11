@@ -1,0 +1,258 @@
+I"�><h1 id="lab-members">Lab Members</h1>
+
+<p><strong>We are looking for new members to join the team</strong> <a href="http://localhost:4000/FAQ">(see openings)</a> <strong>!</strong></p>
+
+<p>Jump to <a href="#faculty">faculty</a>, <a href="#phd-students">PhD students</a>, <a href="#msc-students">MSc students</a>, <a href="#bsc-students">BSc students</a>, <a href="#alumni">alumni</a>, and <a href="#interns">interns</a>.</p>
+
+<h2 id="faculty">Faculty</h2>
+
+<div class="clearfix teamdiv">
+  <p><img src="http://localhost:4000/images/teampic/leilani.jpg" class="img-responsive" width="15%" style="float: left" /></p>
+  <h4>Leilani Battle</h4>
+  <p><i>Assistant Professor, started Aug 2018<br />Email: &lt;leibatt(@)umd.edu&gt;<br />Website: <a href="https://www.cs.umd.edu/~leilani/">https://www.cs.umd.edu/~leilani/</a></i></p>
+  <ul style="overflow: hidden">
+
+  <li> Prof. Leilani Battle is the PI of the BAD Lab. Her research interests span data management, visualization, and human computer interaction, with a focus on developing interactive systems for exploring large, complex datasets. Outside of work, Prof. Battle loves to read, play board games and video games, and sew/knit. </li>
+
+  </ul>
+</div>
+
+<h2 id="phd-students">PhD Students</h2>
+
+<div class="clearfix teamdiv">
+  <p><img src="http://localhost:4000/images/teampic/hannah.jpeg" class="img-responsive" width="15%" style="float: left" /></p>
+  <h4>Hannah Bako</h4>
+  <p><i>PhD Student<br />Email: &lt;hbako(@)cs.umd.edu&gt;<br />Website: <a href="https://www.cs.umd.edu/people/hbako">https://www.cs.umd.edu/people/hbako</a></i></p>
+  <ul style="overflow: hidden">
+  <li> Hannah is a PhD student at the Department of Computer Science in the University of Maryland College Park. She holds a MSc (2019) in Software Engineering from Stevens Institute of Technology and a BSc (2015) in Computer Information Systems from Babcock University. Her research interests cuts across Data Science, Software Engineering and Human Computer Interaction, with a focus on developing tools that facilitate efficient data analysis and presentation practices, prioritize the needs of users and are accessible to data analysts of various proficencies. Outside of research, she is a plant and fitness enthusiast who enjoys baking. </li>
+
+  </ul>
+</div>
+
+<div class="clearfix teamdiv">
+  <p><img src="http://localhost:4000/images/teampic/sneha.png" class="img-responsive" width="15%" style="float: left" /></p>
+  <h4>Sneha Gathani</h4>
+  <p><i>PhD Student<br />Email: &lt;sgathani(@)cs.umd.edu&gt;<br />Website: <a href="https://sneha-gathani.github.io/">https://sneha-gathani.github.io/</a></i></p>
+  <ul style="overflow: hidden">
+  <li> Sneha is a PhD student in the Department of Computer Science. She graduated from UMD with a Master’s degree while exploring research in data viz. Sneha is currently working on deriving a generalized model of user’s analytic tasks and interaction patterns observed across different systems. She is also contributing to the Code Code Evolution project to understand how analysts explore data with computational notebooks and deliver insights after long term analysis. In her spare time she loves painting and making jigsaw puzzles! </li>
+
+  </ul>
+</div>
+
+<div class="clearfix teamdiv">
+  <p><img src="http://localhost:4000/images/teampic/deepthi.png" class="img-responsive" width="15%" style="float: left" /></p>
+  <h4>Deepthi Raghunandan</h4>
+  <p><i>PhD Student<br />Email: &lt;draghun1(@)cs.umd.edu&gt;<br />Website: <a href="https://www.cs.umd.edu/~draghun1/">https://www.cs.umd.edu/~draghun1/</a></i></p>
+  <ul style="overflow: hidden">
+  <li> I am a PhD student researching and building interactive data analytic systems as part of the BAD Lab, under advisor Dr. Leilani Battle. Before entering the program, I spent four years as a software developer at Microsoft, actively working on client side software in the Windows Phone and Skype for Business divisions. This got me invested in prioritizing user experience during system development. I've also spent two years working on personal start-up projects, which planted the motivational seeds for my current research. I am a proud Terp alum! I graduated from the University of Maryland with undergraduate degrees in Computer Science and Economics. When I’m not working towards another degree, you’ll probably find me in the kitchen cooking up a storm! </li>
+
+  </ul>
+</div>
+
+<div class="clearfix teamdiv">
+  <p><img src="http://localhost:4000/images/teampic/zehua.jpg" class="img-responsive" width="15%" style="float: left" /></p>
+  <h4>Zehua Zeng</h4>
+  <p><i>PhD Student<br />Email: &lt;zzeng(@)cs.umd.edu&gt;<br />Website: <a href="https://www.cs.umd.edu/~zzeng/">https://www.cs.umd.edu/~zzeng/</a></i></p>
+  <ul style="overflow: hidden">
+  <li> Zehua is a Ph.D. student at Department of Computer Science, Unversity of Maryland, College Park. She holds a MSc in Computer Science from University of Maryland, and a BEng in Telecommunication Engineering from Beijing University of Post and Telecommunication. Her research interests include Visualization Recommendation, Visual Analytics, and general Human-Computer Interaction. Outside of research, Zehua also likes competitive shooting, and sewing. </li>
+
+  </ul>
+</div>
+
+<h2 id="msc-students">MSc Students</h2>
+
+<div class="clearfix teamdiv">
+  <p><img src="http://localhost:4000/images/teampic/ameya.jpg" class="img-responsive" width="15%" style="float: left" /></p>
+  <h4>Ameya Patil</h4>
+  <p><i>MSc Student<br />Email: &lt;ameyap(@)cs.umd.edu&gt;<br />Website: &lt;&gt;</i></p>
+  <ul style="overflow: hidden">
+  <li> Ameya is a Master’s student in the Department of Computer Science. Having completed his undergraduate studies in Computer Science from BITS-Pilani Goa Campus, India, he also worked for 2 years as a software developer at NVIDIA Graphics in the GeForce Experience gaming products team. Currently at UMD, he is involved in research in the domain of user behaviour modelling. Particularly, his work revolves around using deep learning techniques to find patterns in user behaviour while performing visual data exploration and developing models to predict the behaviour. His interests also include computer vision and graphics which has translated into picking up digital photography as his hobby. </li>
+
+  </ul>
+</div>
+
+<div class="clearfix teamdiv">
+  <p><img src="http://localhost:4000/images/teampic/joanna.jpg" class="img-responsive" width="15%" style="float: left" /></p>
+  <h4>Joanna Purich</h4>
+  <p><i>MSc Student<br />Email: &lt;banana(@)cs.umd.edu&gt;<br />Website: <a href="https://www.cs.umd.edu/people/banana">https://www.cs.umd.edu/people/banana</a></i></p>
+  <ul style="overflow: hidden">
+  <li> Joanna is a Masters student at the Department of Computer Science and a Sr. Data Scientist at Nielsen where she focuses on improving the diversity of market research panels. She graduated from St. Mary's College of Maryland with BAs in Mathematics and History and a minor in Music Performance. Through the BAD lab, she contributes to the performance driven user interface design project with the goal of improving interactive visualization systems. </li>
+
+  </ul>
+</div>
+
+<div class="clearfix teamdiv">
+  <p><img src="http://localhost:4000/images/teampic/astha.jpg" class="img-responsive" width="15%" style="float: left" /></p>
+  <h4>Astha Singhal</h4>
+  <p><i>MSc Student<br />Email: &lt;asinghal084(@)gmail.com&gt;<br />Website: &lt;&gt;</i></p>
+  <ul style="overflow: hidden">
+  <li> Astha is a Master's student in the Computer Science Department at the University of Maryland, where she graduated with a B.S in Computer Science. She was previously a STIC instructor for CMSC388E (Arts and Tech), where she taught an elective on the intersection of Art and Computer Science. She is currently researching the intersection of HCI and Data Visualization, particularly in understanding how people evaluate and perceive visualization recommendations. Quarantine has awakened a new interest in public policy and behavioral economics, but otherwise, you can usually find her reading in a hammock, hiking, rock climbing, or swimming! </li>
+
+  </ul>
+</div>
+
+<div class="clearfix teamdiv">
+  <p><img src="http://localhost:4000/images/teampic/junran.png" class="img-responsive" width="15%" style="float: left" /></p>
+  <h4>Junran Yang</h4>
+  <p><i>MSc Student<br />Email: &lt;jryang(@)cs.umd.edu&gt;<br />Website: &lt;&gt;</i></p>
+  <ul style="overflow: hidden">
+  <li> Junran is a Master's student in the Department of Computer Science. She graduated from University of Maryland with an undergraduate degree in Computer Science and Mathematics. She is currently working on data prefetching for interactive multi-user environment and the Scalable Vega project. Her interests also include Machine Learning, Algorithm Design and watercolor painting. </li>
+
+  </ul>
+</div>
+
+<h2 id="bsc-students">BSc Students</h2>
+
+<div class="clearfix teamdiv">
+  <p><img src="http://localhost:4000/images/teampic/aayushi.png" class="img-responsive" width="15%" style="float: left" /></p>
+  <h4>Aayushi Roy</h4>
+  <p><i>BSc Student<br />Email: &lt;&gt;<br />Website: &lt;&gt;</i></p>
+  <ul style="overflow: hidden">
+  <li> Aayushi is a undergraduate student pursuing a dual degree in Computer Science and Psychology at the University of Maryland, College Park. She is currently working on Project Colab to understand the relationship between computational notebooks and effective collaboration. Her research interests include Software Engineering and Human Computer Interaction. Outside of research, she enjoys spreading her passion for technology through teaching and as the Co-Director of Logistics for Technica, the largest all-women and non-binary hackathon in the world. </li>
+
+  </ul>
+</div>
+
+<div class="clearfix teamdiv">
+  <p><img src="http://localhost:4000/images/teampic/shenzhi.jpg" class="img-responsive" width="15%" style="float: left" /></p>
+  <h4>Shenzhi Shi</h4>
+  <p><i>BSc Student<br />Email: &lt;s.shenzhi42(@)gmail.com&gt;<br />Website: <a href="https://www.linkedin.com/in/shenzhi-shi-9708751a2">https://www.linkedin.com/in/shenzhi-shi-9708751a2</a></i></p>
+  <ul style="overflow: hidden">
+  <li> Shenzhi is an undergraduate student in the Department of Computer Science at University of Maryland. He has worked as a research intern at the Johns Hopkins Center for Computational Biology. He started his work in the Battle Data Lab on the Lodestar project, and he is currently working on Project Evolution. </li>
+
+  </ul>
+</div>
+
+<div class="clearfix teamdiv">
+  <p><img src="http://localhost:4000/images/teampic/tj.jpeg" class="img-responsive" width="15%" style="float: left" /></p>
+  <h4>TJ Shrestha</h4>
+  <p><i>BSc Student<br />Email: &lt;&gt;<br />Website: &lt;&gt;</i></p>
+  <ul style="overflow: hidden">
+  <li> TJ is a senior undergraduate student in the Department of Computer Science at the University of Maryland, College Park. He has interned at General Dynamics Mission Systems, where he worked on predictive analytics on geographic data, and Unisys, where he worked on cloud infrastructure.  He has also worked as a teaching assistant for CMSC330 (Organization of Programming Languages). In the Battle Data Lab, TJ has worked on the Lodestar project and is currently working on Project Evolution. His interests include machine learning, data science and software development. </li>
+
+  </ul>
+</div>
+
+<div class="clearfix teamdiv">
+  <p><img src="http://localhost:4000/images/teampic/segen.png" class="img-responsive" width="15%" style="float: left" /></p>
+  <h4>Segen Tirfe</h4>
+  <p><i>BSc Student<br />Email: &lt;&gt;<br />Website: &lt;&gt;</i></p>
+  <ul style="overflow: hidden">
+  <li> Segen is an undergraduate student majoring in Information Science at the University of Maryland, College Park. This summer she will be working with Nonprofit Princes Georges as their web developer and graphical design intern. She also will be working with Deepthi to help on the Lodestar and Project Evolution project. Her research interests are in Data Science and Human Computer Interaction. Her non technical interests are teaching and event planning! </li>
+
+  </ul>
+</div>
+
+<div class="clearfix teamdiv">
+  <p><img src="http://localhost:4000/images/teampic/alisha.jpg" class="img-responsive" width="15%" style="float: left" /></p>
+  <h4>Alisha Varma</h4>
+  <p><i>BSc Student<br />Email: &lt;&gt;<br />Website: <a href="https://www.linkedin.com/in/alisha-varma/">https://www.linkedin.com/in/alisha-varma/</a></i></p>
+  <ul style="overflow: hidden">
+  <li> Alisha is an Undergraduate student in the Department of Computer Science. She has taught for Girls Who Code and is a Sponsorship Organizer for Technica, the world’s largest all-women and non-binary hackathon. Alisha is currently working on the Beagle project; developing an automated user recommendation system for D3.js visualizations. The project involves conducting data analysis and modeling of the visualizations and their interactions in order to aid various skill level visualization designers. Her research interests include machine learning, cloud computing and data engineering. In her free time, you’ll likely find her at the gym, hiking or behind a camera. </li>
+
+  </ul>
+</div>
+
+<div class="clearfix teamdiv">
+  <p><img src="http://localhost:4000/images/teampic/minhui.jpg" class="img-responsive" width="15%" style="float: left" /></p>
+  <h4>Minhui Xie</h4>
+  <p><i>BSc Student<br />Email: &lt;mxie123(@)umd.edu&gt;<br />Website: <a href="https://pachimarii.github.io/">https://pachimarii.github.io/</a></i></p>
+  <ul style="overflow: hidden">
+  <li> Minhui is a rising senior at the University of Maryland, working towards a Bachelor’s degree in Computer Science. She worked as a software engineer intern remotely with PayPal in summer 2020. During the internship, Minhui went through the full software development lifecycle building a test registry that helps to federate tests intelligently. Currently, she is working as a research assistant on a data visualization project at Battle Data Lab. During the experience, she helped with the implementation of a data visualization recommendation interface that adapts to various recommendation strategies. She enjoys designing websites and drawing cartoons, currently, she is also into some video games, like League of Legends and World of Warcraft. </li>
+
+  </ul>
+</div>
+
+<h2 id="alumni">Alumni</h2>
+
+<!-- bsc alumni -->
+
+<h4>BSc Students</h4>
+
+<div class="row">
+
+  <div class="col-sm-4 clearfix">
+    <p>BJ Sallah, Spring 2020 <br />
+  <i>Software Engineer II at Pandora</i></p>
+  </div>
+
+  <div class="col-sm-4 clearfix">
+    <p>Shriya Sharma, Spring 2020 <br />
+  <i>Associate Software Engineer at T. Rowe Price</i></p>
+  </div>
+
+  <div class="col-sm-4 clearfix">
+    <p>Kelli Webber, Spring 2020 <br />
+  <i>Web Content Manager and Creative Assistant at Rendered</i></p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-4 clearfix">
+    <p>Yukun Zheng, Spring 2020 <br />
+  <i>Went to MSCS at Georgia Tech</i></p>
+  </div>
+
+  <div class="col-sm-4 clearfix">
+    <p>Yinan Chen, Spring 2019 <br />
+  <i>Went to MIMS at UC Berkeley</i></p>
+  </div>
+
+  <div class="col-sm-4 clearfix">
+    <p>Rachael Zehrung, Spring 2019 <br />
+  <i>Went to MSCS at University of Maryland, Collage Park</i></p>
+  </div>
+
+</div>
+
+<!-- master alumni -->
+
+<h4>MSc Students</h4>
+
+<div class="row">
+
+  <div class="col-sm-4 clearfix">
+    <p>Abhishek Bassan, Spring 2020 <br />
+  <i>Software Engineer at Amazon</i></p>
+  </div>
+
+  <div class="col-sm-4 clearfix">
+    <p>Pooja Gada, Spring 2020 <br />
+  <i>Data Analyst at Verizon</i></p>
+  </div>
+
+  <div class="col-sm-4 clearfix">
+    <p>Andrew Fichman, Fall 2019 <br />
+  <i>Sr. Software Engineer at NASA</i></p>
+  </div>
+
+</div>
+
+<!-- phd alumni -->
+
+<!-- <h4>PhD Students</h4>
+
+
+
+
+ -->
+
+<!-- interns -->
+
+<h2 id="interns">Interns</h2>
+
+<div class="row">
+
+  <div class="col-sm-4 clearfix">
+    <p>Alexandra Wong, Summer 2019</p>
+  </div>
+
+  <div class="col-sm-4 clearfix">
+    <p>Rhea Bhattacharjee, Summer 2019</p>
+  </div>
+
+</div>
+
+:ET

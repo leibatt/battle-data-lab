@@ -1,0 +1,10 @@
+@inproceedings{battle2019characterizing,
+  title={Characterizing Exploratory Visual Analysis: A Literature Review and Evaluation of Analytic Provenance in Tableau},
+  author={Battle, Leilani and Heer, Jeffrey},
+  booktitle={Computer Graphics Forum},
+  volume={38},
+  number={3},
+  pages={145--159},
+  year={2019},
+  organization={Wiley Online Library}
+}
