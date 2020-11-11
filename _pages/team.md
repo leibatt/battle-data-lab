@@ -8,7 +8,7 @@ permalink: /team/
 
 # Lab Members
 
-**We are looking for new members to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/FAQ) **!**
+**We are looking for new members to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/faq) **!**
 
 Jump to [faculty](#faculty), [PhD students](#phd-students), [MSc students](#msc-students), [BSc students](#bsc-students), [alumni](#alumni), and [interns](#interns).
 
