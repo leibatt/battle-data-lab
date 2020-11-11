@@ -1,0 +1,163 @@
+I"?<h1 id="publications">Publications</h1>
+
+<!-- ## Group highlights
+
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=9ghHK7sAAAAJ))
+
+
+
+
+
+
+
+<p> &nbsp; </p> -->
+
+<h2 id="full-list">Full List</h2>
+
+<h3 id="conference-and-journal-papers">Conference and Journal Papers</h3>
+
+<p>
+<b>A Structured Review of Data Management Technology for Interactive Visualization and Analysis</b> <br />
+Leilani Battle, Carlos Scheidegger<br />
+<em>InfoVis 2020</em><br />
+<a href="https://ieeexplore.ieee.org/document/9217931" target="_blank">PDF</a>
+<span> | </span><a href="http://localhost:4000/bibtex/tao2020kyrixs" target="_blank">Bibtex</a>
+
+<span> | </span><a href="http://hdc.cs.arizona.edu/projects/end-to-end-visual-big-data/db-tech-for-interactive-vis/" target="_blank">Project Website</a>
+
+<span> | </span><a href="https://github.com/tracyhenry/kyrix" target="_blank">Github</a>
+
+</p>
+
+<p>
+<b>Kyrix-S: Authoring Scalable Scatterplot Visualizations of Big Data</b> <br />
+Wenbo Tao, Xinli Hou, Adam Sah, Leilani Battle, Remco Chang and Michael Stonebraker<br />
+<em>InfoVis 2020</em><br />
+<a href="https://ieeexplore.ieee.org/document/9222038" target="_blank">PDF</a>
+<span> | </span><a href="http://localhost:4000/bibtex/tao2020kyrixs" target="_blank">Bibtex</a>
+
+<span> | </span><a href="http://dsail.csail.mit.edu/index.php/kyrix/" target="_blank">Project Website</a>
+
+<span> | </span><a href="https://github.com/tracyhenry/kyrix" target="_blank">Github</a>
+
+</p>
+
+<p>
+<b>Database Benchmarking for Supporting Real-Time Interactive Querying of Large Data</b> <br />
+Leilani Battle, Philipp Eichmann, Marco Angelini, Carsten Binnig, Tiziana Catarci, Jean-Daniel Fekete, Giuseppe Santucci, Dominik Moritz, Yukun Zheng<br />
+<em>SIGMOD 2020</em><br />
+<a href="https://dl.acm.org/doi/10.1145/3318464.3389732" target="_blank">PDF</a>
+<span> | </span><a href="http://localhost:4000/bibtex/battle2020database.txt" target="_blank">Bibtex</a>
+
+<span> | </span><a href="https://github.com/leibatt/crossfilter-benchmark-public" target="_blank">Github</a>
+
+<span> | </span><a href="https://www.youtube.com/watch?v=ABDU0BAJRfw" target="_blank">Video (presentation)</a>
+
+<span> | </span><a href="https://osf.io/9xerb/" target="_blank">OSF</a>
+
+</p>
+
+<p>
+<b>Debugging Database Queries: A Survey of Tools, Techniques, and Users</b> <br />
+Sneha Gathani, Peter Lim, Leilani Battle<br />
+<em>CHI 2020</em><br />
+<a href="https://dl.acm.org/doi/abs/10.1145/3313831.3376485" target="_blank">PDF</a>
+<span> | </span><a href="http://localhost:4000/bibtex/gathani2020debugging.txt" target="_blank">Bibtex</a>
+
+<span> | </span><a href="https://www.youtube.com/watch?v=auCLjsBi6zE" target="_blank">Video (presentation)</a>
+
+</p>
+
+<p>
+<b>A Provenance Task Abstraction Framework</b> <br />
+Christian Bors, John Wenskovitch, Michelle Dowling, Simon Attfield, Leilani Battle, Alex Endert, Olga Kulyk, and Robert S. Laramee<br />
+<em>IEEE Computer Graphics and Applications (Volume 39, Issue 6, Nov.-Dec. 1 2019)</em><br />
+<a href="https://ieeexplore.ieee.org/document/8864010" target="_blank">PDF</a>
+<span> | </span><a href="http://localhost:4000/bibtex/bors2019provenance.txt" target="_blank">Bibtex</a>
+
+</p>
+
+<p>
+<b>The Role of Latency and Task Complexity in Predicting Visual Search Behavior</b> <br />
+Leilani Battle, R. Jordan Crouser, Audace Nakeshimana, Ananda Montoly, Remco Chang, and Michael Stonebraker<br />
+<em>InfoVis 2019</em><br />
+<a href="https://ieeexplore.ieee.org/document/8809742" target="_blank">PDF</a>
+<span> | </span><a href="http://localhost:4000/bibtex/battle2019role.txt" target="_blank">Bibtex</a>
+
+<span> | </span><a href="https://github.com/leibatt/latency-visual-search" target="_blank">Github</a>
+
+</p>
+
+<p>
+<b>Smile: A System to Support Machine Learning on EEG Data at Scale</b> <br />
+Lei Cao, Wenbo Tao, Sungtae An, Jing Jin, Yizhou Yan, Xiaoyu Liu, Wendong Ge, Adam Sah, Leilani Battle, Jimeng Sun, Remco Chang, Brandon Westover, Samuel Madden, and Michael Stonebraker<br />
+<em>VLDB 2019</em><br />
+<a href="https://dl.acm.org/doi/10.14778/3352063.3352138" target="_blank">PDF</a>
+<span> | </span><a href="http://localhost:4000/bibtex/cao2019smile.txt" target="_blank">Bibtex</a>
+
+</p>
+
+<p>
+<b>Characterizing Exploratory Visual Analysis: A Literature Review and Evaluation of Analytic Provenance in Tableau</b> <br />
+Leilani Battle and Jeffrey Heer<br />
+<em>EuroVis 2019</em><br />
+<a href="https://www.researchgate.net/publication/334380448_Characterizing_Exploratory_Visual_Analysis_A_Literature_Review_and_Evaluation_of_Analytic_Provenance_in_Tableau" target="_blank">PDF</a>
+<span> | </span><a href="http://localhost:4000/bibtex/battle2019characterizing.txt" target="_blank">Bibtex</a>
+
+<span> | </span><a href="https://github.com/leibatt/characterizing-eva-tableau" target="_blank">Github</a>
+
+<span> | </span><a href="https://www.youtube.com/watch?v=c8nZQ1z5sas" target="_blank">Video (preview)</a>
+
+</p>
+
+<p>
+<b>Kyrix: Interactive Pan/Zoom Visualizations at Scale</b> <br />
+Wenbo Tao, Xiaoyu Liu, Yedi Wang, Leilani Battle, Çagatay Demiralp, Remco Chang, and Michael Stonebraker<br />
+<em>EuroVis 2019</em><br />
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13708" target="_blank">PDF</a>
+<span> | </span><a href="http://localhost:4000/bibtex/tao2019kyrix.txt" target="_blank">Bibtex</a>
+
+<span> | </span><a href="https://github.com/tracyhenry/kyrix" target="_blank">Github</a>
+
+</p>
+
+<p>
+<b>Beagle: Automated Extraction and Interpretation of Visualizations from the Web</b> <br />
+Leilani Battle, Peitong Duan, Zachery Miranda, Dana Mukusheva, Remco Chang, and Michael Stonebraker<br />
+<em>CHI 2018</em><br />
+<a href="https://dl.acm.org/doi/10.1145/3173574.3174168" target="_blank">PDF</a>
+<span> | </span><a href="http://localhost:4000/bibtex/battle2018beagle.txt" target="_blank">Bibtex</a>
+
+<span> | </span><a href="https://www.youtube.com/watch?v=ln-H9c4wiWM" target="_blank">Video (preview)</a>
+
+<span> | </span><a href="https://www.cs.umd.edu/~leilani/beagle.html" target="_blank">Dataset</a>
+
+</p>
+
+<h3 id="workshop-papers">Workshop Papers</h3>
+
+<p>
+<b>Leveraging Human Learning in Interactive Data Exploration</b> <br />
+Sanad Saha, Arash Termehchy, and Leilani Battle<br />
+<em>CAST 2019</em><br />
+<a href="https://cast19.athenarc.gr/files/papers/Leveraging_Human_Learning_in_Interactive_Data_Exploration.pdf" target="_blank">PDF</a>
+<span> | </span><a href="http://localhost:4000/bibtex/saha2019leveraging.txt" target="_blank">Bibtex</a>
+</p>
+
+<p>
+<b>Evaluating Visual Data Analysis Systems: A Discussion Report</b> <br />
+Leilani Battle, Marco Angelini, Carsten Binnig, Tiziana Catarci, Philipp Eichmann, Jean-Daniel Fekete, Giuseppe Santucci, Michael Sedlmair and Wesley Willett<br />
+<em>HILDA 2018</em><br />
+<a href="https://dl.acm.org/doi/10.1145/3209900.3209901" target="_blank">PDF</a>
+<span> | </span><a href="http://localhost:4000/bibtex/battle2018evaluating.txt" target="_blank">Bibtex</a>
+</p>
+
+<p>
+<b>Position statement: The case for a visualization performance benchmark</b> <br />
+Leilani Battle, Remco Chang, Jeffrey Heer, and Michael Stonebraker<br />
+<em>DSIA Workshop 2017 (co-located with VIS 2017)</em><br />
+<a href="https://ieeexplore.ieee.org/document/8339089" target="_blank">PDF</a>
+<span> | </span><a href="http://localhost:4000/bibtex/battle2017position.txt" target="_blank">Bibtex</a>
+</p>
+
+:ET

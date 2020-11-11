@@ -1,52 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
-{% include head.html %}
+  {% include head.html %}
 
-<body>
+  <body>
 
-    <div class="container">
-        <header class="masthead">
-            <h3 class="masthead-title">
-                <small>{{ site.tagline }}</small>
-            </h3>
-        </header>
+    {% include header.html %}
 
-        <div class="banner">
-            <a class="banner-link" href="{{site.baseurl}}/"><img src=" {{ site.baseurl }}/public/BAD_Banner.png" /></a>
-        </div>
-
-        <div class=" navigation">
-            <a class="navigation-item about" href="{{ site.baseurl }}/about"> ABOUT US
-            </a>
-            <a class="navigation-item projects" href="{{ site.baseurl }}/projects"> OUR PROJECTS
-            </a>
-            <div class="dropdown">
-                <button class="dropbtn">More
-                    <span class="caret"></span>
-                </button>
-                <div class="dropdown-content">
-                    <a href="{{ site.baseurl }}/about">About Us</a>
-                    <a href="{{ site.baseurl }}/projects">Our Projects</a>
-                </div>
-            </div>
-        </div>
-
-        <main class="main">
-            <article class="page">
-                <div class="page-content">
-                    {{ content }}
-                </div>
-            </article>
-        </main>
-
+    <div class="container-fluid">
+      <div class="row">
+        {{ content }}
+      </div>
     </div>
-    <footer class="footer">
-        <div style="padding-left:45%; padding-right:45%; padding-top:1.5%;" class="footerimg">
-            <a class="footerimg-link" href="https://www.cs.umd.edu/">
-            <img src="{{site.baseurl}}/public/cs.png"></img></a>
-        </div>
-    </footer>
-</body>
+
+    {% include footer.html %}
+
+  </body>
 
 </html>

@@ -1,0 +1,40 @@
+#- name:
+#  photo:
+#  info:
+#  email:
+#  website
+#  descr
+
+## order by last name
+
+- name: Ameya Patil
+  photo: ameya.jpg
+  info: MSc Student
+  email: ameyap(@)cs.umd.edu
+  website:
+  descr: Ameya is a Master’s student in the Department of Computer Science. Having completed his undergraduate studies in Computer Science from BITS-Pilani Goa Campus, India, he also worked for 2 years as a software developer at NVIDIA Graphics in the GeForce Experience gaming products team. Currently at UMD, he is involved in research in the domain of user behaviour modelling. Particularly, his work revolves around using deep learning techniques to find patterns in user behaviour while performing visual data exploration and developing models to predict the behaviour. His interests also include computer vision and graphics which has translated into picking up digital photography as his hobby.
+
+- name: Joanna Purich
+  photo: joanna.jpg
+  info: MSc Student
+  email: banana(@)cs.umd.edu
+  website: https://www.cs.umd.edu/people/banana
+  descr: Joanna is a Masters student at the Department of Computer Science and a Sr. Data Scientist at Nielsen where she focuses on improving the diversity of market research panels. She graduated from St. Mary's College of Maryland with BAs in Mathematics and History and a minor in Music Performance. Through the BAD lab, she contributes to the performance driven user interface design project with the goal of improving interactive visualization systems.
+
+- name: Astha Singhal
+  photo: astha.jpg
+  info: MSc Student
+  email: asinghal084(@)gmail.com
+  website:
+  descr: Astha is a Master's student in the Computer Science Department at the University of Maryland, where she graduated with a B.S in Computer Science. She was previously a STIC instructor for CMSC388E (Arts and Tech), where she taught an elective on the intersection of Art and Computer Science. She is currently researching the intersection of HCI and Data Visualization, particularly in understanding how people evaluate and perceive visualization recommendations. Quarantine has awakened a new interest in public policy and behavioral economics, but otherwise, you can usually find her reading in a hammock, hiking, rock climbing, or swimming!
+
+- name: Junran Yang
+  photo: junran.png
+  info: MSc Student
+  email: jryang(@)cs.umd.edu
+  website:
+  descr: Junran is a Master's student in the Department of Computer Science. She graduated from University of Maryland with an undergraduate degree in Computer Science and Mathematics. She is currently working on data prefetching for interactive multi-user environment and the Scalable Vega project. Her interests also include Machine Learning, Algorithm Design and watercolor painting.
+# Sai Yerramreddy
+# Calvin Bao
+# Rachael Zehrung
+#

@@ -1,0 +1,15 @@
+@inproceedings{battle2016dynamic,
+	address = {New York, NY, USA},
+	series = {{SIGMOD} '16},
+	title = {Dynamic {Prefetching} of {Data} {Tiles} for {Interactive} {Visualization}},
+	isbn = {978-1-4503-3531-7},
+	url = {http://doi.acm.org/10.1145/2882903.2882919},
+	doi = {10.1145/2882903.2882919},
+	urldate = {2016-10-21},
+	booktitle = {Proceedings of the 2016 {International} {Conference} on {Management} of {Data}},
+	publisher = {ACM},
+	author = {Battle, Leilani and Chang, Remco and Stonebraker, Michael},
+	year = {2016},
+	keywords = {array browsing, data exploration, predictive caching, visual exploration},
+	pages = {1363--1375}
+}

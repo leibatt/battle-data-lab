@@ -1,0 +1,16 @@
+@inproceedings{10.1145/3313831.3376485,
+author = {Gathani, Sneha and Lim, Peter and Battle, Leilani},
+title = {Debugging Database Queries: A Survey of Tools, Techniques, and Users},
+year = {2020},
+isbn = {9781450367080},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3313831.3376485},
+doi = {10.1145/3313831.3376485},
+booktitle = {Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems},
+pages = {1–16},
+numpages = {16},
+keywords = {debugging databases, empirical study, survey, literature review, visualization},
+location = {Honolulu, HI, USA},
+series = {CHI ’20}
+}

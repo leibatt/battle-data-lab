@@ -1,0 +1,7 @@
+@article{Tao2020kyrixs,
+  title={Kyrix-S: Authoring Scalable Scatterplot Visualizations of Big Data},
+  author={Wenbo Tao and Xinli Hou and Adam Sah and Leilani Battle and Remco Chang and M. Stonebraker},
+  journal={IEEE transactions on visualization and computer graphics},
+  year={2020},
+  volume={PP}
+}

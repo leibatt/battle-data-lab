@@ -1,0 +1,38 @@
+---
+title: "Battle Data Lab - FAQ"
+layout: textlay
+excerpt: "faq"
+sitemap: false
+permalink: /faq/
+---
+
+# Open positions
+
+We are always looking for new group members with passion, talent, and grit!
+
+## We Are Recruiting Undergraduate Researchers
+
+### Overview and Expectations
+
+<p>
+The Battle Data Lab is recruiting undergraduate researchers for Fall 2020 and Spring 2021. Women are strongly encouraged to apply. Black students, indigenous students, and students of color are strongly encouraged to apply.</p>
+
+<p><b>Requirements</b> for all undergraduate researchers:</p>
+<ul style="overflow: hidden">
+<li><p>The ability to research for at least two consecutive semesters (fall and spring, or spring and summer)</p></li>
+<li><p>A commitment to putting 6-10 hours per week into research each semester (minus midterms and finals weeks)</p></li>
+<li><p>Consistent participation in weekly research team meetings</p></li>
+<li><p>Willingness to participate in both user study work (interviewing people, studying how they work) and programming work (software development)</p></li>
+<li><p>Contribute to the final research report, which every research team is expected to write/update each semester</p></li>
+</ul>
+
+<p><b>Expectations</b> for all undergraduate researchers:</p>
+<ul style="overflow: hidden">
+<li><p>Interest in actively building technical *and* communication (writing, presentation) skills equally</p></li>
+<li><p>Interest in developing strong teamwork skills</p></li>
+<li><p>Interest in learning about human-computer interaction, visualization, and database research</p></li>
+</ul>
+
+### How to Apply
+
+<p>Please send Prof. Battle an email with a 2-3 sentence description of what projects you are interested in, and whether you meet the researcher requirements listed above. Please include a copy of your resume as an attachment or link in the email.</p>

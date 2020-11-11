@@ -1,0 +1,12 @@
+@ARTICLE{battle2020structured,
+  author={Battle, Leilani and Scheidegger, Carlos},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={A Structured Review of Data Management Technology for Interactive Visualization and Analysis}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TVCG.2020.3028891},
+  ISSN={},
+  month={},
+}

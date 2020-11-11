@@ -1,0 +1,167 @@
+## from the newest to the oldest
+
+- title: "A Structured Review of Data Management Technology for Interactive Visualization and Analysis"
+  image:
+  description:
+  authors: Leilani Battle, Carlos Scheidegger
+  where: InfoVis 2020
+  pdf:
+    url: https://ieeexplore.ieee.org/document/9217931
+    display: PDF
+  bib:
+    url: battle2020structured.txt
+    display: Bibtex
+  appx:
+    Project Website: http://hdc.cs.arizona.edu/projects/end-to-end-visual-big-data/db-tech-for-interactive-vis/
+    # Github:
+    # Video (presentation):
+    # OSF:
+    # Blog:
+
+- title: "Kyrix-S: Authoring Scalable Scatterplot Visualizations of Big Data"
+  image:
+  description:
+  authors: Wenbo Tao, Xinli Hou, Adam Sah, Leilani Battle, Remco Chang and Michael Stonebraker
+  where: InfoVis 2020
+  pdf:
+    url: https://ieeexplore.ieee.org/document/9222038
+    display: PDF
+  bib:
+    url: tao2020kyrixs
+    display: Bibtex
+  appx:
+    Project Website: http://dsail.csail.mit.edu/index.php/kyrix/
+    Github: https://github.com/tracyhenry/kyrix
+    # Video (presentation):
+    # OSF:
+    # Blog:
+
+- title: "Database Benchmarking for Supporting Real-Time Interactive Querying of Large Data"
+  image:
+  description:
+  authors: Leilani Battle, Philipp Eichmann, Marco Angelini, Carsten Binnig, Tiziana Catarci, Jean-Daniel Fekete, Giuseppe Santucci, Dominik Moritz, Yukun Zheng
+  where: SIGMOD 2020
+  pdf:
+    url: https://dl.acm.org/doi/10.1145/3318464.3389732
+    display: PDF
+  bib:
+    url: battle2020database.txt
+    display: Bibtex
+  appx:
+    Github: https://github.com/leibatt/crossfilter-benchmark-public
+    Video (presentation): https://www.youtube.com/watch?v=ABDU0BAJRfw
+    OSF: https://osf.io/9xerb/
+    # Blog:
+
+- title: "Debugging Database Queries: A Survey of Tools, Techniques, and Users"
+  image:
+  description:
+  authors: Sneha Gathani, Peter Lim, Leilani Battle
+  where: CHI 2020
+  pdf:
+    url: https://dl.acm.org/doi/abs/10.1145/3313831.3376485
+    display: PDF
+  bib:
+    url: gathani2020debugging.txt
+    display: Bibtex
+  appx:
+    # Github:
+    Video (presentation): https://www.youtube.com/watch?v=auCLjsBi6zE
+    # Blog:
+
+- title: "A Provenance Task Abstraction Framework"
+  image:
+  description:
+  authors: Christian Bors, John Wenskovitch, Michelle Dowling, Simon Attfield, Leilani Battle, Alex Endert, Olga Kulyk, and Robert S. Laramee
+  where: IEEE Computer Graphics and Applications (Volume 39, Issue 6, Nov.-Dec. 1 2019)
+  pdf:
+    url: https://ieeexplore.ieee.org/document/8864010
+    display: PDF
+  bib:
+    url: bors2019provenance.txt
+    display: Bibtex
+  appx:
+    # Github:
+    # Video (presentation):
+    # Blog:
+
+- title: "The Role of Latency and Task Complexity in Predicting Visual Search Behavior"
+  image:
+  description:
+  authors: Leilani Battle, R. Jordan Crouser, Audace Nakeshimana, Ananda Montoly, Remco Chang, and Michael Stonebraker
+  where: InfoVis 2019
+  pdf:
+    url: https://ieeexplore.ieee.org/document/8809742
+    display: PDF
+  bib:
+    url: battle2019role.txt
+    display: Bibtex
+  appx:
+    Github: https://github.com/leibatt/latency-visual-search
+    # Video (presentation):
+    # Blog:
+
+- title: "Smile: A System to Support Machine Learning on EEG Data at Scale"
+  image:
+  description:
+  authors: Lei Cao, Wenbo Tao, Sungtae An, Jing Jin, Yizhou Yan, Xiaoyu Liu, Wendong Ge, Adam Sah, Leilani Battle, Jimeng Sun, Remco Chang, Brandon Westover, Samuel Madden, and Michael Stonebraker
+  where: VLDB 2019
+  pdf:
+    url: https://dl.acm.org/doi/10.14778/3352063.3352138
+    display: PDF
+  bib:
+    url: cao2019smile.txt
+    display: Bibtex
+  appx:
+    # Github:
+    # Video (presentation):
+    # Blog:
+
+- title: "Characterizing Exploratory Visual Analysis: A Literature Review and Evaluation of Analytic Provenance in Tableau"
+  image:
+  description:
+  authors: Leilani Battle and Jeffrey Heer
+  where: EuroVis 2019
+  pdf:
+    url: https://www.researchgate.net/publication/334380448_Characterizing_Exploratory_Visual_Analysis_A_Literature_Review_and_Evaluation_of_Analytic_Provenance_in_Tableau
+    display: PDF
+  bib:
+    url: battle2019characterizing.txt
+    display: Bibtex
+  appx:
+    Github: https://github.com/leibatt/characterizing-eva-tableau
+    Video (preview): https://www.youtube.com/watch?v=c8nZQ1z5sas
+    # Blog:
+
+- title: "Kyrix: Interactive Pan/Zoom Visualizations at Scale"
+  image:
+  description:
+  authors: Wenbo Tao, Xiaoyu Liu, Yedi Wang, Leilani Battle, Çagatay Demiralp, Remco Chang, and Michael Stonebraker
+  where: EuroVis 2019
+  pdf:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13708
+    display: PDF
+  bib:
+    url: tao2019kyrix.txt
+    display: Bibtex
+  appx:
+    Github: https://github.com/tracyhenry/kyrix
+    # Video (preview):
+    # Blog:
+
+- title: "Beagle: Automated Extraction and Interpretation of Visualizations from the Web"
+  image:
+  description:
+  authors: Leilani Battle, Peitong Duan, Zachery Miranda, Dana Mukusheva, Remco Chang, and Michael Stonebraker
+  where: CHI 2018
+  pdf:
+    url: https://dl.acm.org/doi/10.1145/3173574.3174168
+    display: PDF
+  bib:
+    url: battle2018beagle.txt
+    display: Bibtex
+  appx:
+    # Github:
+    Video (preview): https://www.youtube.com/watch?v=ln-H9c4wiWM
+    Dataset: https://www.cs.umd.edu/~leilani/beagle.html
+    # Blog:

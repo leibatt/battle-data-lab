@@ -1,0 +1,6 @@
+@article{saha2019leveraging,
+  booktitle={Proceedings of the Workshop on Conversational Access to Data},
+  year={2019}, 
+  title={Leveraging Human Learning in Interactive Data Exploration},
+  author={Saha, Sanad and Termehchy, Arash and Battle, Leilani}
+}
