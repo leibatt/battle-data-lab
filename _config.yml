@@ -11,7 +11,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   The Battle Data Lab develops innovative, data driven technology to aid analysts in performing complex data exploration and analysis.
 baseurl: ""
-url: "http://battle-data-lab.cs.umd.edu"
+url: "https://battle-data-lab.cs.umd.edu"
 
 include:
   - .htaccess
