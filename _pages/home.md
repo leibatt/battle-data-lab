@@ -64,7 +64,7 @@ We are grateful for funding from [University of Maryland](https://umd.edu/), [NS
 <figure class="fourth">
   <a href="https://umd.edu/"><img class="home_logo" src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_umd.png" style="width: 18%"></a> &nbsp;
   <a href="https://www.nsf.gov/"><img class="home_logo" src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nsf.png" style="width: 18%"></a> &nbsp;
-  <a href="https://research.adobe.com/"><img class="home_logo" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_adobe.svg" style="width: 18%"></a> &nbsp;
+  <a href="https://research.adobe.com/"><img class="home_logo" src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_adobe.svg" style="width: 18%"></a> &nbsp;
   <a href="https://www.orau.org/"><img class="home_logo" src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_orau.png" style="width: 25%"></a>
 </figure>
 <br />
