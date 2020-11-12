@@ -2,6 +2,7 @@
 
 - This is the repo containing bad lab's github website.
 - You can find the hosted website <a href="battle-data-lab.cs.umd.edu">here</a>.
+- Changes will be shown only when you modify the "gh-pages" branch.
 - Any questions or concerns about the website content? Please contact Zehua > zzeng@cs.umd.edu
 
 ### How to run it locally?
