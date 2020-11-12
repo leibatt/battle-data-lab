@@ -11,8 +11,13 @@
 - \_data > all text content
 - images > all media content
 - \_includes > head, header, footer, and news
-- \_pages > each page structure
+- \_pages > home, team, projects, publications, videos, faq, 404
 - bibtex > bibtex for each publication
+
+### Add a new page
+
+- Add a new md in the \_pages folder
+- Change header.html under \_includes to add the new page to the navigation bar
 
 ### Add information to the Team Page
 
@@ -22,12 +27,18 @@
   - Alumni > alumni_bsc.yml, alumni_msc.yml, alumni_phd.yml
   - Interns > interns.yml
 - Follow the same structure of the content already there to add / modify
-- Put the picture under images/teampic
+- Put pictures under images/teampic folder
 
-## Add your project to the the Project Page
+## Add your project to the Project Page
 
-- Fine the correct file in \_data folder to add / change information
+- Find the correct file in \_data folder to add / change information
   - Ongoing project > current_projects.yml
   - Past project > past_projects.yml
 - Follow the same structure of the content already there to add / modify
-- Put the picture under images/projpic
+- Put pictures under images/projpic folder
+
+## Others
+
+- Add / change news > \_data/news.yml
+- Add / change videos > \_data/video_presentation.yml
+- Add / change publications > \_data/pub_conf_jrnl.yml or \_data/pub_wksh.yml
