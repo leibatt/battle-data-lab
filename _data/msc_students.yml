@@ -1,9 +1,10 @@
+## Copy the following data structure then add info
 #- name:
-#  photo:
-#  info:
+#  photo: bio-photo.jpg #if you dont have one
+#  info: MSc Student
 #  email:
 #  website
-#  descr
+#  descr:
 
 ## order by last name
 
@@ -36,5 +37,4 @@
   descr: Junran is a Master's student in the Department of Computer Science. She graduated from University of Maryland with an undergraduate degree in Computer Science and Mathematics. She is currently working on data prefetching for interactive multi-user environment and the Scalable Vega project. Her interests also include Machine Learning, Algorithm Design and watercolor painting.
 # Sai Yerramreddy
 # Calvin Bao
-# Rachael Zehrung
 #

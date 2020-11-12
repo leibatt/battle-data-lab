@@ -1,9 +1,10 @@
+# Copy the following data structure then add the info
 #- name:
-#  photo:
-#  info:
+#  photo: bio-photo.jpg #if you dont have one
+#  info: BSc Student
 #  email:
 #  website
-#  descr
+#  descr:
 
 ## order by last name
 - name: Aayushi Roy
