@@ -29,7 +29,7 @@
 - Follow the same structure of the content already there to add / modify
 - Put pictures under images/teampic folder
 
-## Add your project to the Project Page
+### Add your project to the Project Page
 
 - Find the correct file in \_data folder to add / change information
   - Ongoing project > current_projects.yml
@@ -37,7 +37,7 @@
 - Follow the same structure of the content already there to add / modify
 - Put pictures under images/projpic folder
 
-## Others
+### Others
 
 - Add / change news > \_data/news.yml
 - Add / change videos > \_data/video_presentation.yml
