@@ -4,6 +4,17 @@
 - You can find the hosted website <a href="battle-data-lab.cs.umd.edu">here</a>.
 - Any questions or concerns about the website content? Please contact Zehua > zzeng@cs.umd.edu
 
+### How to run it locally?
+
+- Have Jekyll installed in your pc
+- Go to battle-data-lab folder in CMD, and then run
+
+```
+jekyll serve
+```
+
+- visit http://localhost:4000/ to check out the website
+
 ## Website Framework
 
 ### Folders
