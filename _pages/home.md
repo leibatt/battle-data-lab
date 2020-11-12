@@ -57,7 +57,7 @@ The Battle Data Lab develops innovative, data driven technology to aid analysts 
 
 <!-- We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl). -->
 
-**We are looking for passionate new PhD students, Master students and undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/faq) **!**
+**We are looking for passionate new Master students and undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/faq) **!**
 
 We are grateful for funding from [University of Maryland](https://umd.edu/), [NSF](https://www.nsf.gov/), [Adobe](https://research.adobe.com/) and [ORAU](https://www.orau.org/).
 
