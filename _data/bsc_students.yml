@@ -7,6 +7,13 @@
 #  descr:
 
 ## order by last name
+- name: Hyekang Kevin Joo
+  photo: hyekang.png
+  info: BSc Student
+  email: hkjoo(@)cs.umd.edu
+  website: https://www.linkedin.com/in/hyekang-joo/
+  descr: Hyekang is a senior majoring in Computer Science and is on Machine Learning Specialization at University of Maryland. He has served as a TA for more than three semesters during his undergraduate career. He has served as the president of Association for Computing Machinery in junior and senior years, the secretary of ACM in sophomore year, the webmaster of Alpha Lambda Delta in junior and senior years, and the secretary of cybersecurity club in sophomore year. His research is at the intersection of Computer Vision, Robotics, and HCI.
+
 - name: Aayushi Roy
   photo: aayushi.png
   info: BSc Student
